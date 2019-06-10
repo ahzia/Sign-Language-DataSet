@@ -1,8 +1,6 @@
-﻿𝠀񀀁𝠃𝤎𝤕񀀁𝣿𝣷	¿1	
-𝠀񀀁𝠃𝤎𝤕񀀁𝣿𝣷	¿one	
-𝠀񀀁񀀉񈗥񈗵񋸦𝠃𝤝𝤨񀀁𝤎𝣤񀀉𝣰𝣮񈗥𝤏𝤇񈗵𝣱𝤑񋸦𝤆𝤜	¿come
+﻿𝠀񀀁񀀉񈗥񈗵񋸦𝠃𝤝𝤨񀀁𝤎𝣤񀀉𝣰𝣮񈗥𝤏𝤇񈗵𝣱𝤑񋸦𝤆𝤜	¿come
 𝠀񀀁񁲋񆒁񋲡𝠃𝤝𝤨񆒁𝣰𝤐񁲋𝣾𝣤񋲡𝣷𝤡񀀁𝣶𝣮	¿heart beat
-𝠀񀀁񆇡񈙁񍘡𝠃𝤪𝤰񍘡𝣴𝣵񆇡𝤎𝤖񈙁𝤚𝤊񀀁𝣺𝤒	¿tell	you
+𝠀񀀁񆇡񈙁񍘡𝠃𝤪𝤰񍘡𝣴𝣵񆇡𝤎𝤖񈙁𝤚𝤊񀀁𝣺𝤒	¿tell you
 𝠀񀀁񆕁񇆥񍘡񁲠񈙃񎱆𝠃𝤭𝥨񍘡𝣴𝣵񀀁𝣺𝤒񆕁𝤔𝤗񇆥𝤎𝤥񎱆𝣨𝥈񁲠𝤒𝥌񈙃𝣸𝥔	¿rash				
 𝠀񀀁񀀉񈙅񈙕𝠃𝤛𝤥񀀁𝤋𝤆񀀉𝣳𝤇񈙅𝤋𝣨񈙕𝣲𝣧	¿come
 𝠀񀀁񂇛񎵩񎵧񆇡񇂄񆇡𝠃𝤬𝤰񂇛𝤏𝤤񎵧𝣧𝤨񎵩𝤛𝣹񆇡𝤢𝤖񆇡𝣠𝤜񀀁𝤔𝣝񇂄𝣬𝣹	¿day
@@ -56,9 +54,9 @@
 𝠀񀀁񆿅񀭁𝠃𝤒𝤰񀀁𝣽𝣝񀭁𝣻𝤒񆿅𝣾𝤁	¿one third
 𝠀񀀁񆿅񀭁𝠃𝤒𝤰񀀁𝣽𝣝񀭁𝣻𝤒񆿅𝣾𝤁	¿one-third
 𝠀񀀁񈗥񆇡񋾡𝠃𝤘𝤰񋾡𝣴𝣵񀀁𝣹𝤒񈗥𝣣𝤇񆇡𝤋𝤘	¿disappointed
-𝠀񀀁񊒡񀁅񆇡񋾡𝠃𝤥𝥮񋾡𝣴𝣵񀀁𝣸𝤒񊒡𝤒𝤓񆇡𝣷𝥣񀁅𝣼𝥀		¿tell-me
+𝠀񀀁񊒡񀁅񆇡񋾡𝠃𝤥𝥮񋾡𝣴𝣵񀀁𝣸𝤒񊒡𝤒𝤓񆇡𝣷𝥣񀁅𝣼𝥀	¿tell-me
 𝠀񀀁񋔡񍩁𝠃𝤘𝤱񍩁𝣴𝣵񀀁𝤀𝤑񋔡𝣠𝤖	¿who
-𝠀񀀁񆫡񌁦񌏁𝠃𝤯𝤝񌏁𝣴𝣺񀀁𝤘𝣤񆫡𝤝𝣙񌁦𝣴𝣯		¿understand that
+𝠀񀀁񆫡񌁦񌏁𝠃𝤯𝤝񌏁𝣴𝣺񀀁𝤘𝣤񆫡𝤝𝣙񌁦𝣴𝣯	¿understand that
 𝠀񀀁񆿅񁦁𝠃𝤑𝤯񀀁𝤀𝣝񆿅𝤁𝣾񁦁𝣻𝤐	¿one quarter
 	𝠀񀀁񆿅񁦁𝠃𝤑𝤯񀀁𝤀𝣝񆿅𝤁𝣾񁦁𝣻𝤐	¿¼
 𝠀񀀁񆿅񁦁𝠃𝤑𝤯񀀁𝤀𝣝񆿅𝤁𝣾񁦁𝣻𝤐	¿one four
@@ -700,317 +698,6 @@
 𝠀񀀡񁳛񆊡񇀥𝠃𝤢𝤮񁳛𝣪𝣟񀀡𝤁𝣮񆊡𝤐𝣧񇀥𝤁𝤐	¿disappear
 𝠀񀀡񂋪񇀥񇀧𝠃𝤨𝤞񂋪𝣤𝣯񀀡𝣶𝤀񇀥𝤎𝣹񇀧𝤊𝣻	¿edit
 𝠀񀀡񂋹񆕁񆿁𝠃𝤜𝤨񂋹𝣱𝣮񀀡𝤍𝤊񆕁𝤇𝣹񆿁𝤇𝣤	¿tall
-𝠀񀀡񂤁񀖑񈙇񇆥𝠃𝤮𝤢񀀡𝣟𝣪񂤁𝣳𝣴񀖑𝤋𝣫񈙇𝤐𝤇񇆥𝤌𝤔	¿122
-𝠀񀀡񂤁񀖑񈙇񇆥𝠃𝤮𝤢񀀡𝣟𝣪񂤁𝣳𝣴񀖑𝤋𝣫񈙇𝤐𝤇񇆥𝤌𝤔	¿one hundred twenty two
-𝠀񀀡񂤁񀖑񈙇񇆥𝠃𝤮𝤢񀀡𝣟𝣪񂤁𝣳𝣴񀖑𝤋𝣫񈙇𝤐𝤇񇆥𝤌𝤔	¿one-hundred-twenty-two
-𝠀񀀡񂤁񀭡񃸁𝠃𝤵𝤖񀀡𝣘𝣷񂤁𝣬𝤁񀭡𝤁𝣷񃸁𝤠𝣺	¿one hundred thirty seven
-𝠀񀀡񂤁񀭡񃸁𝠃𝤵𝤖񀀡𝣘𝣷񂤁𝣬𝤁񀭡𝤁𝣷񃸁𝤠𝣺	¿137
-𝠀񀀡񂤁񀭡񃸁𝠃𝤵𝤖񀀡𝣘𝣷񂤁𝣬𝤁񀭡𝤁𝣷񃸁𝤠𝣺	¿one-hundred-thirty-seven
-𝠀񀀡񂤁񁦡񀭡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁦡𝤃𝣷񀭡𝤚𝣸	¿143
-𝠀񀀡񂤁񁦡񀭡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁦡𝤃𝣷񀭡𝤚𝣸	¿one hundred forty three
-𝠀񀀡񂤁񁦡񀭡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁦡𝤃𝣷񀭡𝤚𝣸	¿one-hundred-forty-three
-𝠀񀀡񂤁񁪡񆱵𝠃𝤦𝤕񀀡𝣧𝣷񂤁𝣻𝤁񆱵𝤌𝣷񁪡𝤒𝣿	¿114
-𝠀񀀡񂤁񁪡񆱵𝠃𝤦𝤕񀀡𝣧𝣷񂤁𝣻𝤁񆱵𝤌𝣷񁪡𝤒𝣿	¿one hundred fourteen
-𝠀񀀡񂤁񁪡񆱵𝠃𝤦𝤕񀀡𝣧𝣷񂤁𝣻𝤁񆱵𝤌𝣷񁪡𝤒𝣿	¿one-hundred-fourteen
-𝠀񀀡񂋹񆙡񆿁𝠃𝤙𝤤񂋹𝣳𝣵񀀡𝤇𝤆񆿁𝤌𝣩񆙡𝤋𝣼	¿tall
-𝠀񀀡񂤁񀭡𝠃𝤦𝤕񀀡𝣧𝣷񂤁𝣻𝤁񀭡𝤏𝣷	¿103
-𝠀񀀡񂤁񀭡𝠃𝤦𝤕񀀡𝣧𝣷񂤁𝣻𝤁񀭡𝤏𝣷	¿one hundred three
-𝠀񀀡񂤁񀭡𝠃𝤦𝤕񀀡𝣧𝣷񂤁𝣻𝤁񀭡𝤏𝣷	¿one-hundred-three
-𝠀񀀡񂤁񀭡񄙁𝠃𝤴𝤖񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񄙁𝤟𝣺	¿138
-𝠀񀀡񂤁񀭡񄙁𝠃𝤴𝤖񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񄙁𝤟𝣺	¿one hundred thirty	eight
-𝠀񀀡񂤁񀭡񄙁𝠃𝤴𝤖񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񄙁𝤟𝣺	¿one-hundred-thirty-eight
-𝠀񀀡񂤁񁦡񁲡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁦡𝤃𝣷񁲡𝤚𝣷	¿145
-𝠀񀀡񂤁񁦡񁲡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁦡𝤃𝣷񁲡𝤚𝣷	¿one	hundred forty	five
-𝠀񀀡񂤁񁦡񁲡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁦡𝤃𝣷񁲡𝤚𝣷	¿one-hundred-forty-five
-𝠀񀀡񂤁񁲡𝠃𝤧𝤖񀀡𝣦𝣸񂤁𝣺𝤂񁲡𝤐𝣷	¿105
-𝠀񀀡񂤁񁲡𝠃𝤧𝤖񀀡𝣦𝣸񂤁𝣺𝤂񁲡𝤐𝣷	¿one hundred five
-𝠀񀀡񂤁񁲡𝠃𝤧𝤖񀀡𝣦𝣸񂤁𝣺𝤂񁲡𝤐𝣷	¿one-hundred-five
-𝠀񀀡񂌱񆅩񆿅񋾡𝠃𝤘𝥜񀀡𝤄𝤎񋾡𝣴𝣵񆅩𝣲𝥍񂌱𝣵𝤹񆿅𝤊𝤲	¿pledge
-𝠀񀀡񂤁񀭡񀀡𝠃𝤱𝤕񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񀀡𝤢𝣷		¿131
-𝠀񀀡񂤁񀭡񀀡𝠃𝤱𝤕񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񀀡𝤢𝣷		¿one hundred thirty one
-𝠀񀀡񂤁񀭡񀀡𝠃𝤱𝤕񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񀀡𝤢𝣷		¿one-hundred-thirty-one
-𝠀񀀡񂤁񀭡񄵡𝠃𝤴𝤖񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񄵡𝤞𝣸	¿139
-𝠀񀀡񂤁񀭡񄵡𝠃𝤴𝤖񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񄵡𝤞𝣸	¿one hundred thirty nine
-𝠀񀀡񂤁񀭡񄵡𝠃𝤴𝤖񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񄵡𝤞𝣸	¿one-hundred-thirty-nine
-𝠀񀀡񂤁񁦡񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񁦡𝤇𝣶񂱡𝤝𝤆		¿140
-𝠀񀀡񂤁񁦡񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񁦡𝤇𝣶񂱡𝤝𝤆		¿one hundred forty
-𝠀񀀡񂤁񁦡񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񁦡𝤇𝣶񂱡𝤝𝤆		¿one-hundred-forty
-𝠀񀀡񂤁񁲡񀀡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁲡𝤆𝣶񀀡𝤡𝣸		¿151
-𝠀񀀡񂤁񁲡񀀡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁲡𝤆𝣶񀀡𝤡𝣸		¿one hundred fifty one
-𝠀񀀡񂤁񁲡񀀡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁲡𝤆𝣶񀀡𝤡𝣸		¿one-hundred-fifty-one
-𝠀񀀡񂤁𝠃𝤙𝤕񂤁𝤈𝤁񀀡𝣳𝣷	¿100
-𝠀񀀡񂤁𝠃𝤙𝤕񂤁𝤈𝤁񀀡𝣳𝣷	¿one hundred
-𝠀񀀡񂤁𝠃𝤙𝤕񂤁𝤈𝤁񀀡𝣳𝣷	¿one-hundred
-𝠀񀀡񂤁𝠃𝤙𝤕񂤁𝤈𝤁񀀡𝣳𝣷	¿hundred
-𝠀񀀡񂤁񀭡񀕡𝠃𝤱𝤕񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񀕡𝤢𝣷		¿132
-𝠀񀀡񂤁񀭡񀕡𝠃𝤱𝤕񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񀕡𝤢𝣷		¿one	hundred	thirty	two
-𝠀񀀡񂤁񀭡񀕡𝠃𝤱𝤕񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񀕡𝤢𝣷		¿one-hundred-thirty-two
-𝠀񀀡񂤁񀮑񈙇񇆥𝠃𝤲𝤡񀀡𝣚𝣫񂤁𝣮𝣵񀮑𝤃		¿133
-𝠀񀀡񂤁񀮑񈙇񇆥𝠃𝤲𝤡񀀡𝣚𝣫񂤁𝣮𝣵񀮑𝤃		¿one hundred thirty three
-𝠀񀀡񂤁񀮑񈙇񇆥𝠃𝤲𝤡񀀡𝣚𝣫񂤁𝣮𝣵񀮑𝤃		¿one-hundred-thirty-three
-𝠀񀀡񂤁񁦡񃋁𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񁦡𝤆𝣶񃋁𝤝𝣹	¿146
-𝠀񀀡񂤁񁦡񃋁𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񁦡𝤆𝣶񃋁𝤝𝣹	¿one	hundred	forty	six
-𝠀񀀡񂤁񁦡񃋁𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񁦡𝤆𝣶񃋁𝤝𝣹	¿one-hundred-forty-six
-𝠀񀀡񂤁񁲡񀕡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁲡𝤆𝣶񀕡𝤡𝣸		¿152
-𝠀񀀡񂤁񁲡񀕡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁲡𝤆𝣶񀕡𝤡𝣸		¿one	hundred	fifty	two
-𝠀񀀡񂤁񁲡񀕡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁲡𝤆𝣶񀕡𝤡𝣸		¿one-hundred-fifty-two
-𝠀񀀡񂤁񀀁񆫡𝠃𝤧𝤚񀀡𝣥𝣼񂤁𝣹𝤆񀀁𝤐𝣼񆫡𝤕𝣳		¿111
-𝠀񀀡񂤁񀀁񆫡𝠃𝤧𝤚񀀡𝣥𝣼񂤁𝣹𝤆񀀁𝤐𝣼񆫡𝤕𝣳		¿one	hundred	eleven
-𝠀񀀡񂤁񀀁񆫡𝠃𝤧𝤚񀀡𝣥𝣼񂤁𝣹𝤆񀀁𝤐𝣼񆫡𝤕𝣳		¿one-hundred-eleven
-𝠀񀀡񂤁񀭡񀾁𝠃𝤳𝤕񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񀾁𝤛𝣿	¿130
-𝠀񀀡񂤁񀭡񀾁𝠃𝤳𝤕񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񀾁𝤛𝣿	¿one	hundred	thirty
-𝠀񀀡񂤁񀭡񀾁𝠃𝤳𝤕񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񀾁𝤛𝣿	¿one-hundred-thirty
-𝠀񀀡񂤁񁃡񆱵𝠃𝤧𝤙񀀡𝣥𝣻񂤁𝣹𝤅񁃡𝤐𝣻񆱵𝤍𝣳	¿113
-𝠀񀀡񂤁񁃡񆱵𝠃𝤧𝤙񀀡𝣥𝣻񂤁𝣹𝤅񁃡𝤐𝣻񆱵𝤍𝣳	¿one	hundred	thirteen
-𝠀񀀡񂤁񁃡񆱵𝠃𝤧𝤙񀀡𝣥𝣻񂤁𝣹𝤅񁃡𝤐𝣻񆱵𝤍𝣳	¿one-hundred-thirteen
-𝠀񀀡񂤁񁦡񃸁𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁦡𝤃𝣶񃸁𝤜𝣺	¿147
-𝠀񀀡񂤁񁦡񃸁𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁦡𝤃𝣶񃸁𝤜𝣺	¿one	hundred	forty	seven
-𝠀񀀡񂤁񁦡񃸁𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁦡𝤃𝣶񃸁𝤜𝣺	¿one-hundred-forty-seven
-𝠀񀀡񂤁񁲡񀭡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁲡𝤄𝣷񀭡𝤚𝣸	¿153
-𝠀񀀡񂤁񁲡񀭡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁲡𝤄𝣷񀭡𝤚𝣸	¿one	hundred	fifty	three
-𝠀񀀡񂤁񁲡񀭡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁲡𝤄𝣷񀭡𝤚𝣸	¿one-hundred-fifty-three
-𝠀񀀡񂤁񀀡𝠃𝤣𝤕񀀡𝣩𝣷񂤁𝣽𝤁񀀡𝤔𝣷	¿101
-𝠀񀀡񂤁񀀡𝠃𝤣𝤕񀀡𝣩𝣷񂤁𝣽𝤁񀀡𝤔𝣷	¿one	hundred	one
-𝠀񀀡񂤁񀀡𝠃𝤣𝤕񀀡𝣩𝣷񂤁𝣽𝤁񀀡𝤔𝣷	¿one-hundred-one
-𝠀񀀡񂤁񀭡񁦡𝠃𝤴𝤖񀀡𝣙𝣸񂤁𝣭𝤂񀭡𝤂𝣸񁦡𝤞𝣷	¿134
-𝠀񀀡񂤁񀭡񁦡𝠃𝤴𝤖񀀡𝣙𝣸񂤁𝣭𝤂񀭡𝤂𝣸񁦡𝤞𝣷	¿one	hundred	thirty	four
-𝠀񀀡񂤁񀭡񁦡𝠃𝤴𝤖񀀡𝣙𝣸񂤁𝣭𝤂񀭡𝤂𝣸񁦡𝤞𝣷	¿one-hundred-thirty-four
-𝠀񀀡񂤁񁦡𝠃𝤦𝤖񀀡𝣧𝣸񂤁𝣻𝤂񁦡𝤐𝣷	¿104
-𝠀񀀡񂤁񁦡𝠃𝤦𝤖񀀡𝣧𝣸񂤁𝣻𝤂񁦡𝤐𝣷	¿one	hundred	four
-𝠀񀀡񂤁񁦡𝠃𝤦𝤖񀀡𝣧𝣸񂤁𝣻𝤂񁦡𝤐𝣷	¿one-hundred-four
-𝠀񀀡񂤁񁦡񄙁𝠃𝤲𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁦡𝤃𝣶񄙁𝤝𝣺	¿148
-𝠀񀀡񂤁񁦡񄙁𝠃𝤲𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁦡𝤃𝣶񄙁𝤝𝣺	¿one	hundred	forty	eight
-𝠀񀀡񂤁񁦡񄙁𝠃𝤲𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁦡𝤃𝣶񄙁𝤝𝣺	¿one-hundred-forty-eight
-𝠀񀀡񂤁񁲡񁦡𝠃𝤲𝤖񀀡𝣚𝣸񂤁𝣮𝤂񁲡𝤃𝣷񁦡𝤜𝣷	¿154
-𝠀񀀡񂤁񁲡񁦡𝠃𝤲𝤖񀀡𝣚𝣸񂤁𝣮𝤂񁲡𝤃𝣷񁦡𝤜𝣷	¿one	hundred	fifty	four
-𝠀񀀡񂤁񁲡񁦡𝠃𝤲𝤖񀀡𝣚𝣸񂤁𝣮𝤂񁲡𝤃𝣷񁦡𝤜𝣷	¿one-hundred-fifty-four
-𝠀񀀡񂤁񀕁񆫡𝠃𝤤𝤚񀀡𝣨𝣼񂤁𝣼𝤆񀕁𝤒𝣼񆫡𝤒𝣲		¿112
-𝠀񀀡񂤁񀕁񆫡𝠃𝤤𝤚񀀡𝣨𝣼񂤁𝣼𝤆񀕁𝤒𝣼񆫡𝤒𝣲		¿one	hundred	twelve
-𝠀񀀡񂤁񀕁񆫡𝠃𝤤𝤚񀀡𝣨𝣼񂤁𝣼𝤆񀕁𝤒𝣼񆫡𝤒𝣲		¿one-hundred-twelve
-𝠀񀀡񂤁񀭡񁲡𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񀭡𝤁𝣷񁲡𝤝𝣷	¿135
-𝠀񀀡񂤁񀭡񁲡𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񀭡𝤁𝣷񁲡𝤝𝣷	¿one	hundred	thirty	five
-𝠀񀀡񂤁񀭡񁲡𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񀭡𝤁𝣷񁲡𝤝𝣷	¿one-hundred-thirty-five
-𝠀񀀡񂤁񁦡񀀡𝠃𝤯𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁦡𝤅𝣶񀀡𝤠𝣸		¿141
-𝠀񀀡񂤁񁦡񀀡𝠃𝤯𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁦡𝤅𝣶񀀡𝤠𝣸		¿one	hundred	forty	one
-𝠀񀀡񂤁񁦡񀀡𝠃𝤯𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁦡𝤅𝣶񀀡𝤠𝣸		¿one-hundred-forty-one
-𝠀񀀡񂤁񁦡񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񁦡𝤄𝣶񄵡𝤛𝣸	¿149
-𝠀񀀡񂤁񁦡񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񁦡𝤄𝣶񄵡𝤛𝣸	¿one	hundred	forty	nine
-𝠀񀀡񂤁񁦡񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񁦡𝤄𝣶񄵡𝤛𝣸	¿one-hundred-forty-nine
-𝠀񀀡񂤁񁲡񂱡𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񁲡𝤇𝣶񂱡𝤟𝤆		¿150
-𝠀񀀡񂤁񁲡񂱡𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񁲡𝤇𝣶񂱡𝤟𝤆		¿one	hundred	fifty
-𝠀񀀡񂤁񁲡񂱡𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񁲡𝤇𝣶񂱡𝤟𝤆		¿one-hundred-fifty
-𝠀񀀡񂤁񀕡𝠃𝤣𝤕񀀡𝣪𝣷񂤁𝣾𝤁񀕡𝤔𝣷	¿102
-𝠀񀀡񂤁񀕡𝠃𝤣𝤕񀀡𝣪𝣷񂤁𝣾𝤁񀕡𝤔𝣷	¿one	hundred	two
-𝠀񀀡񂤁񀕡𝠃𝤣𝤕񀀡𝣪𝣷񂤁𝣾𝤁񀕡𝤔𝣷	¿one-hundred-two
-𝠀񀀡񂤁񀭡񃋁𝠃𝤲𝤖񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񃋁𝤠𝣹	¿136
-𝠀񀀡񂤁񀭡񃋁𝠃𝤲𝤖񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񃋁𝤠𝣹	¿one	hundred	thirty	six
-𝠀񀀡񂤁񀭡񃋁𝠃𝤲𝤖񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񃋁𝤠𝣹	¿one-hundred-thirty-six
-𝠀񀀡񂤁񁦡񀕡𝠃𝤮𝤖񀀡𝣞𝣸񂤁𝣲𝤂񁦡𝤆𝣷񀕡𝤟𝣸		¿142
-𝠀񀀡񂤁񁦡񀕡𝠃𝤮𝤖񀀡𝣞𝣸񂤁𝣲𝤂񁦡𝤆𝣷񀕡𝤟𝣸		¿one	hundred	forty	two
-𝠀񀀡񂤁񁦡񀕡𝠃𝤮𝤖񀀡𝣞𝣸񂤁𝣲𝤂񁦡𝤆𝣷񀕡𝤟𝣸		¿one-hundred-forty-two
-𝠀񀀡񂤁񁧑񈙇񇆥𝠃𝤮𝤡񀀡𝣟𝣬񂤁𝣳𝣶񁧑𝤇𝣫񈙇𝤐𝤆񇆥𝤈𝤓	¿144
-𝠀񀀡񂤁񁧑񈙇񇆥𝠃𝤮𝤡񀀡𝣟𝣬񂤁𝣳𝣶񁧑𝤇𝣫񈙇𝤐𝤆񇆥𝤈𝤓	¿one	hundred	forty	four
-𝠀񀀡񂤁񁧑񈙇񇆥𝠃𝤮𝤡񀀡𝣟𝣬񂤁𝣳𝣶񁧑𝤇𝣫񈙇𝤐𝤆񇆥𝤈𝤓	¿one-hundred-forty-four
-𝠀񀀡񂤁񁲡񃋁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񁲡𝤅𝣶񃋁𝤞𝣹	¿156
-𝠀񀀡񂤁񁲡񃋁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񁲡𝤅𝣶񃋁𝤞𝣹	¿one	hundred	fifty	six
-𝠀񀀡񂤁񁲡񃋁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񁲡𝤅𝣶񃋁𝤞𝣹	¿one-hundred-fifty-six
-𝠀񀀡񂤁񁲡񃸁𝠃𝤲𝤖񀀡𝣚𝣷񂤁𝣮𝤁񁲡𝤃𝣶񃸁𝤝𝣺	¿157
-𝠀񀀡񂤁񁲡񃸁𝠃𝤲𝤖񀀡𝣚𝣷񂤁𝣮𝤁񁲡𝤃𝣶񃸁𝤝𝣺	¿one	hundred	fifty	seven
-𝠀񀀡񂤁񁲡񃸁𝠃𝤲𝤖񀀡𝣚𝣷񂤁𝣮𝤁񁲡𝤃𝣶񃸁𝤝𝣺	¿one-hundred-fifty-seven
-𝠀񀀡񂤁񃋁𝠃𝤥𝤖񀀡𝣨𝣷񂤁𝣼𝤁񃋁𝤓𝣹	¿106
-𝠀񀀡񂤁񃋁𝠃𝤥𝤖񀀡𝣨𝣷񂤁𝣼𝤁񃋁𝤓𝣹	¿one	hundred	six
-𝠀񀀡񂤁񃋁𝠃𝤥𝤖񀀡𝣨𝣷񂤁𝣼𝤁񃋁𝤓𝣹	¿one-hundred-six
-𝠀񀀡񂤁񃷱񄙁𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣮𝤁񃷱𝤂𝣺񄙁𝤜𝣺	¿178
-𝠀񀀡񂤁񃷱񄙁𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣮𝤁񃷱𝤂𝣺񄙁𝤜𝣺	¿one	hundred	seventy	eight
-𝠀񀀡񂤁񃷱񄙁𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣮𝤁񃷱𝤂𝣺񄙁𝤜𝣺	¿one-hundred-seventy-eight
-𝠀񀀡񂤁񃸁񂱡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃸁𝤉𝣺񂱡𝤞𝤆		¿170
-𝠀񀀡񂤁񃸁񂱡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃸁𝤉𝣺񂱡𝤞𝤆		¿one	hundred	seventy
-𝠀񀀡񂤁񃸁񂱡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃸁𝤉𝣺񂱡𝤞𝤆		¿one-hundred-seventy
-𝠀񀀡񂤁񅊡񁦡𝠃𝤴𝤖񀀡𝣙𝣸񂤁𝣭𝤂񅊡𝤂𝣸񁦡𝤞𝣷	¿124
-𝠀񀀡񂤁񅊡񁦡𝠃𝤴𝤖񀀡𝣙𝣸񂤁𝣭𝤂񅊡𝤂𝣸񁦡𝤞𝣷	¿one	hundred	twenty	four
-𝠀񀀡񂤁񅊡񁦡𝠃𝤴𝤖񀀡𝣙𝣸񂤁𝣭𝤂񅊡𝤂𝣸񁦡𝤞𝣷	¿one-hundred-twenty-four
-𝠀񀀡񂤁񁲡񄙁𝠃𝤳𝤖񀀡𝣚𝣷񂤁𝣮𝤁񁲡𝤃𝣶񄙁𝤞𝣺	¿158
-𝠀񀀡񂤁񁲡񄙁𝠃𝤳𝤖񀀡𝣚𝣷񂤁𝣮𝤁񁲡𝤃𝣶񄙁𝤞𝣺	¿one	hundred	fifty	eight
-𝠀񀀡񂤁񁲡񄙁𝠃𝤳𝤖񀀡𝣚𝣷񂤁𝣮𝤁񁲡𝤃𝣶񄙁𝤞𝣺	¿one-hundred-fifty-eight
-𝠀񀀡񂤁񃋁񀀡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񀀡𝤟𝣷		¿161
-𝠀񀀡񂤁񃋁񀀡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񀀡𝤟𝣷		¿one	hundred	sixty	one
-𝠀񀀡񂤁񃋁񀀡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񀀡𝤟𝣷		¿one-hundred-sixty-one
-𝠀񀀡񂤁񃷱񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣯𝤁񃷱𝤃𝣺񄵡𝤛𝣸	¿179
-𝠀񀀡񂤁񃷱񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣯𝤁񃷱𝤃𝣺񄵡𝤛𝣸	¿one	hundred	seventy	nine
-𝠀񀀡񂤁񃷱񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣯𝤁񃷱𝤃𝣺񄵡𝤛𝣸	¿one-hundred-seventy-nine
-𝠀񀀡񂤁񃸁񃋁𝠃𝤰𝤕񀀡𝣝𝣷񂤁𝣰𝤁񃸁𝤇𝣹񃋁𝤞𝣸		¿176
-𝠀񀀡񂤁񃸁񃋁𝠃𝤰𝤕񀀡𝣝𝣷񂤁𝣰𝤁񃸁𝤇𝣹񃋁𝤞𝣸		¿one	hundred	seventy	six
-𝠀񀀡񂤁񃸁񃋁𝠃𝤰𝤕񀀡𝣝𝣷񂤁𝣰𝤁񃸁𝤇𝣹񃋁𝤞𝣸		¿one-hundred-seventy-six
-𝠀񀀡񂤁񁲡񄵡𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁲡𝤄𝣶񄵡𝤛𝣸	¿159
-𝠀񀀡񂤁񁲡񄵡𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁲡𝤄𝣶񄵡𝤛𝣸	¿one	hundred	fifty	nine
-𝠀񀀡񂤁񁲡񄵡𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁲡𝤄𝣶񄵡𝤛𝣸	¿one-hundred-fifty-nine
-𝠀񀀡񂤁񃋁񀕡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񀕡𝤟𝣷		¿162
-𝠀񀀡񂤁񃋁񀕡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񀕡𝤟𝣷		¿one	hundred	sixty	two
-𝠀񀀡񂤁񃋁񀕡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񀕡𝤟𝣷		¿one-hundred-sixty-two
-𝠀񀀡񂤁񃸁𝠃𝤧𝤖񀀡𝣥𝣷񂤁𝣹𝤁񃸁𝤒𝣺	¿107
-𝠀񀀡񂤁񃸁𝠃𝤧𝤖񀀡𝣥𝣷񂤁𝣹𝤁񃸁𝤒𝣺	¿one	hundred	seven
-𝠀񀀡񂤁񃸁𝠃𝤧𝤖񀀡𝣥𝣷񂤁𝣹𝤁񃸁𝤒𝣺	¿one-hundred-seven
-𝠀񀀡񂤁񃸱񈙇񇆥𝠃𝤮𝤡񀀡𝣞𝣬񂤁𝣱𝣶񃸱𝤈𝣮񈙇𝤐𝤆񇆥𝤇𝤓	¿177
-𝠀񀀡񂤁񃸱񈙇񇆥𝠃𝤮𝤡񀀡𝣞𝣬񂤁𝣱𝣶񃸱𝤈𝣮񈙇𝤐𝤆񇆥𝤇𝤓	¿one	hundred	seventy	seven
-𝠀񀀡񂤁񃸱񈙇񇆥𝠃𝤮𝤡񀀡𝣞𝣬񂤁𝣱𝣶񃸱𝤈𝣮񈙇𝤐𝤆񇆥𝤇𝤓	¿one-hundred-seventy-seven
-𝠀񀀡񂤁񅊡񃋁𝠃𝤲𝤖񀀡𝣚𝣷񂤁𝣮𝤁񅊡𝤃𝣷񃋁𝤠𝣹	¿126
-𝠀񀀡񂤁񅊡񃋁𝠃𝤲𝤖񀀡𝣚𝣷񂤁𝣮𝤁񅊡𝤃𝣷񃋁𝤠𝣹	¿one	hundred	twenty	six
-𝠀񀀡񂤁񅊡񃋁𝠃𝤲𝤖񀀡𝣚𝣷񂤁𝣮𝤁񅊡𝤃𝣷񃋁𝤠𝣹	¿one-hundred-twenty-six
-𝠀񀀡񂤁񁳑񈙇񇆥𝠃𝤯𝤡񀀡𝣝𝣬񂤁𝣱𝣶񁳑𝤆𝣫񈙇𝤑𝤇񇆥𝤈𝤓	¿155
-𝠀񀀡񂤁񁳑񈙇񇆥𝠃𝤯𝤡񀀡𝣝𝣬񂤁𝣱𝣶񁳑𝤆𝣫񈙇𝤑𝤇񇆥𝤈𝤓	¿one	hundred	fifty	five
-𝠀񀀡񂤁񁳑񈙇񇆥𝠃𝤯𝤡񀀡𝣝𝣬񂤁𝣱𝣶񁳑𝤆𝣫񈙇𝤑𝤇񇆥𝤈𝤓	¿one-hundred-fifty-five
-𝠀񀀡񂤁񃋁񀭡𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃋁𝤅𝣹񀭡𝤙𝣷	¿163
-𝠀񀀡񂤁񃋁񀭡𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃋁𝤅𝣹񀭡𝤙𝣷	¿one	hundred	sixty	three
-𝠀񀀡񂤁񃋁񀭡𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃋁𝤅𝣹񀭡𝤙𝣷	¿one-hundred-sixty-three
-𝠀񀀡񂤁񃸁񀀡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񃸁𝤇𝣺񀀡𝤡𝣷		¿171
-𝠀񀀡񂤁񃸁񀀡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񃸁𝤇𝣺񀀡𝤡𝣷		¿one	hundred	seventy	one
-𝠀񀀡񂤁񃸁񀀡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񃸁𝤇𝣺񀀡𝤡𝣷		¿one-hundred-seventy-one
-𝠀񀀡񂤁񄙁𝠃𝤧𝤖񀀡𝣦𝣷񂤁𝣺𝤁񄙁𝤒𝣺	¿108
-𝠀񀀡񂤁񄙁𝠃𝤧𝤖񀀡𝣦𝣷񂤁𝣺𝤁񄙁𝤒𝣺	¿one	hundred	eight
-𝠀񀀡񂤁񄙁𝠃𝤧𝤖񀀡𝣦𝣷񂤁𝣺𝤁񄙁𝤒𝣺	¿one-hundred-eight
-𝠀񀀡񂤁񅊡񃸁𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񃸁𝤟𝣺	¿127
-𝠀񀀡񂤁񅊡񃸁𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񃸁𝤟𝣺	¿one	hundred	twenty	seven
-𝠀񀀡񂤁񅊡񃸁𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񃸁𝤟𝣺	¿one-hundred-twenty-seven
-𝠀񀀡񂤁񂇁񆱵𝠃𝤦𝤗񀀡𝣧𝣹񂤁𝣻𝤃񆱵𝤌𝣵񂇁𝤓𝣼		¿115
-𝠀񀀡񂤁񂇁񆱵𝠃𝤦𝤗񀀡𝣧𝣹񂤁𝣻𝤃񆱵𝤌𝣵񂇁𝤓𝣼		¿one	hundred	fifteen
-𝠀񀀡񂤁񂇁񆱵𝠃𝤦𝤗񀀡𝣧𝣹񂤁𝣻𝤃񆱵𝤌𝣵񂇁𝤓𝣼		¿one-hundred-fifteen
-𝠀񀀡񂤁񃋁񁦡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񃋁𝤆𝣹񁦡𝤚𝣶	¿164
-𝠀񀀡񂤁񃋁񁦡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񃋁𝤆𝣹񁦡𝤚𝣶	¿one	hundred	sixty	four
-𝠀񀀡񂤁񃋁񁦡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񃋁𝤆𝣹񁦡𝤚𝣶	¿one-hundred-sixty-four
-𝠀񀀡񂤁񃸁񀕡𝠃𝤯𝤕񀀡𝣞𝣷񂤁𝣱𝤁񃸁𝤈𝣹񀕡𝤠𝣷		¿172
-𝠀񀀡񂤁񃸁񀕡𝠃𝤯𝤕񀀡𝣞𝣷񂤁𝣱𝤁񃸁𝤈𝣹񀕡𝤠𝣷		¿one	hundred	seventy	two
-𝠀񀀡񂤁񃸁񀕡𝠃𝤯𝤕񀀡𝣞𝣷񂤁𝣱𝤁񃸁𝤈𝣹񀕡𝤠𝣷		¿one-hundred-seventy-two
-𝠀񀀡񂤁񄙁񀀡𝠃𝤮𝤖񀀡𝣞𝣷񂤁𝣱𝤁񄙁𝤇𝣺񀀡𝤟𝣸		¿181
-𝠀񀀡񂤁񄙁񀀡𝠃𝤮𝤖񀀡𝣞𝣷񂤁𝣱𝤁񄙁𝤇𝣺񀀡𝤟𝣸		¿one	hundred	eighty	one
-𝠀񀀡񂤁񄙁񀀡𝠃𝤮𝤖񀀡𝣞𝣷񂤁𝣱𝤁񄙁𝤇𝣺񀀡𝤟𝣸		¿one-hundred-eighty-one
-𝠀񀀡񂤁񅊡񄙁𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񄙁𝤟𝣺	¿128
-𝠀񀀡񂤁񅊡񄙁𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񄙁𝤟𝣺	¿one	hundred	twenty	eight
-𝠀񀀡񂤁񅊡񄙁𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񄙁𝤟𝣺	¿one-hundred-twenty-eight
-𝠀񀀡񂤁񃊱񃸁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񃸁𝤛𝣺		¿167
-𝠀񀀡񂤁񃊱񃸁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񃸁𝤛𝣺		¿one	hundred	sixty	seven
-𝠀񀀡񂤁񃊱񃸁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񃸁𝤛𝣺		¿one-hundred-sixty-seven
-𝠀񀀡񂤁񃋁񁲡𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃋁𝤅𝣹񁲡𝤙𝣷	¿165
-𝠀񀀡񂤁񃋁񁲡𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃋁𝤅𝣹񁲡𝤙𝣷	¿one	hundred	sixty	five
-𝠀񀀡񂤁񃋁񁲡𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃋁𝤅𝣹񁲡𝤙𝣷	¿one-hundred-sixty-five
-𝠀񀀡񂤁񃸁񀭡𝠃𝤲𝤕񀀡𝣚𝣷񂤁𝣭𝤁񃸁𝤄𝣹񀭡𝤛𝣷	¿173
-𝠀񀀡񂤁񃸁񀭡𝠃𝤲𝤕񀀡𝣚𝣷񂤁𝣭𝤁񃸁𝤄𝣹񀭡𝤛𝣷	¿one	hundred	seventy	three
-𝠀񀀡񂤁񃸁񀭡𝠃𝤲𝤕񀀡𝣚𝣷񂤁𝣭𝤁񃸁𝤄𝣹񀭡𝤛𝣷	¿one-hundred-seventy-three
-𝠀񀀡񂤁񄙁񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣲𝤁񄙁𝤈𝣺񂱡𝤝𝤆		¿180
-𝠀񀀡񂤁񄙁񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣲𝤁񄙁𝤈𝣺񂱡𝤝𝤆		¿one	hundred	eighty
-𝠀񀀡񂤁񄙁񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣲𝤁񄙁𝤈𝣺񂱡𝤝𝤆		¿one-hundred-eighty
-𝠀񀀡񂤁񅊡񄵡𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񄵡𝤞𝣸	¿129
-𝠀񀀡񂤁񅊡񄵡𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񄵡𝤞𝣸	¿one	hundred	twenty	nine
-𝠀񀀡񂤁񅊡񄵡𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񄵡𝤞𝣸	¿one-hundred-twenty-nine
-𝠀񀀡񂤁񃊱񄙁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񄙁𝤛𝣺		¿168
-𝠀񀀡񂤁񃊱񄙁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񄙁𝤛𝣺		¿one	hundred	sixty	eight
-𝠀񀀡񂤁񃊱񄙁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񄙁𝤛𝣺		¿one-hundred-sixty-eight
-𝠀񀀡񂤁񃋁񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񂱡𝤝𝤆		¿160
-𝠀񀀡񂤁񃋁񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񂱡𝤝𝤆		¿one	hundred	sixty
-𝠀񀀡񂤁񃋁񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񂱡𝤝𝤆		¿one-hundred-sixty
-𝠀񀀡񂤁񃸁񁦡𝠃𝤲𝤖񀀡𝣛𝣸񂤁𝣮𝤂񃸁𝤅𝣺񁦡𝤜𝣷	¿174
-𝠀񀀡񂤁񃸁񁦡𝠃𝤲𝤖񀀡𝣛𝣸񂤁𝣮𝤂񃸁𝤅𝣺񁦡𝤜𝣷	¿one	hundred	seventy	four
-𝠀񀀡񂤁񃸁񁦡𝠃𝤲𝤖񀀡𝣛𝣸񂤁𝣮𝤂񃸁𝤅𝣺񁦡𝤜𝣷	¿one-hundred-seventy-four
-𝠀񀀡񂤁񄵡𝠃𝤧𝤕񀀡𝣦𝣷񂤁𝣺𝤁񄵡𝤑𝣷	¿109
-𝠀񀀡񂤁񄵡𝠃𝤧𝤕񀀡𝣦𝣷񂤁𝣺𝤁񄵡𝤑𝣷	¿one	hundred	nine
-𝠀񀀡񂤁񄵡𝠃𝤧𝤕񀀡𝣦𝣷񂤁𝣺𝤁񄵡𝤑𝣷	¿one-hundred-nine
-𝠀񀀡񂤁񅐡񆥡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񅐡𝤖𝣸񆥡𝤉𝤃	¿121	
-𝠀񀀡񂤁񅐡񆥡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񅐡𝤖𝣸񆥡𝤉𝤃		¿one	hundred	twenty	one
-𝠀񀀡񂤁񅐡񆥡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񅐡𝤖𝣸񆥡𝤉𝤃		¿one-hundred-twenty-one
-𝠀񀀡񂤁񃊱񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񄵡𝤛𝣸	¿169
-𝠀񀀡񂤁񃊱񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񄵡𝤛𝣸	¿one	hundred	sixty	nine
-𝠀񀀡񂤁񃊱񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񄵡𝤛𝣸	¿one-hundred-sixty-nine
-𝠀񀀡񂤁񃋱񈙇񇆥𝠃𝤭𝤡񀀡𝣠𝣫񂤁𝣴𝣵񃋱𝤉𝣭񈙇𝤏𝤇񇆥𝤉𝤓	¿166
-𝠀񀀡񂤁񃋱񈙇񇆥𝠃𝤭𝤡񀀡𝣠𝣫񂤁𝣴𝣵񃋱𝤉𝣭񈙇𝤏𝤇񇆥𝤉𝤓	¿one	hundred	sixty	six
-𝠀񀀡񂤁񃋱񈙇񇆥𝠃𝤭𝤡񀀡𝣠𝣫񂤁𝣴𝣵񃋱𝤉𝣭񈙇𝤏𝤇񇆥𝤉𝤓	¿one-hundred-sixty-six
-𝠀񀀡񂤁񃸁񁲡𝠃𝤳𝤖񀀡𝣚𝣸񂤁𝣭𝤂񃸁𝤄𝣺񁲡𝤜𝣷	¿175
-𝠀񀀡񂤁񃸁񁲡𝠃𝤳𝤖񀀡𝣚𝣸񂤁𝣭𝤂񃸁𝤄𝣺񁲡𝤜𝣷	¿one	hundred	seventy	five
-𝠀񀀡񂤁񃸁񁲡𝠃𝤳𝤖񀀡𝣚𝣸񂤁𝣭𝤂񃸁𝤄𝣺񁲡𝤜𝣷	¿one-hundred-seventy-five
-𝠀񀀡񂤁񅊡񀭡𝠃𝤴𝤕񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񀭡𝤝𝣷	¿123
-𝠀񀀡񂤁񅊡񀭡𝠃𝤴𝤕񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񀭡𝤝𝣷	¿one	hundred	twenty	three
-𝠀񀀡񂤁񅊡񀭡𝠃𝤴𝤕񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񀭡𝤝𝣷	¿one-hundred-twenty-three
-𝠀񀀡񂤁񅡁񆱵𝠃𝤩𝤕񀀡𝣤𝣷񂤁𝣸𝤁񅡁𝤑𝤂񆱵𝤈𝣺	¿120
-𝠀񀀡񂤁񅡁񆱵𝠃𝤩𝤕񀀡𝣤𝣷񂤁𝣸𝤁񅡁𝤑𝤂񆱵𝤈𝣺	¿one	hundred	twenty
-𝠀񀀡񂤁񅡁񆱵𝠃𝤩𝤕񀀡𝣤𝣷񂤁𝣸𝤁񅡁𝤑𝤂񆱵𝤈𝣺	¿one-hundred-twenty
-𝠀񀀡񂤁񅰡񃋁𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񅰡𝤉𝣽񃋁𝤝𝣹		¿116
-𝠀񀀡񂤁񅰡񃋁𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񅰡𝤉𝣽񃋁𝤝𝣹		¿one	hundred	sixteen
-𝠀񀀡񂤁񅰡񃋁𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񅰡𝤉𝣽񃋁𝤝𝣹		¿one-hundred-sixteen
-𝠀񀀡񂱡񀭡𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣼𝤆񀭡𝤍𝣷	¿103
-𝠀񀀡񂱡񀭡𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣼𝤆񀭡𝤍𝣷	¿one	hundred	three
-𝠀񀀡񂱡񀭡𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣼𝤆񀭡𝤍𝣷	¿one-hundred-three
-𝠀񀀡񅰡񉸙𝠃𝤜𝤢񀀡𝣱𝤄񅰡𝤅𝤊񉸙𝤉𝣫	¿110
-𝠀񀀡񅰡񉸙𝠃𝤜𝤢񀀡𝣱𝤄񅰡𝤅𝤊񉸙𝤉𝣫	¿one	hundred	ten
-𝠀񀀡񅰡񉸙𝠃𝤜𝤢񀀡𝣱𝤄񅰡𝤅𝤊񉸙𝤉𝣫	¿one-hundred-ten
-𝠀񀀡񆿅񃋁𝠃𝤏𝤰񀀡𝤀𝣝񃋁𝣽𝤓񆿅𝤀𝣿		¿1/6
-𝠀񀀡񆿅񃋁𝠃𝤏𝤰񀀡𝤀𝣝񃋁𝣽𝤓񆿅𝤀𝣿		¿one	sixth
-𝠀񀀡񇧫񂱡񂱡𝠃𝤣𝤚񀀡𝣪𝣻񇧫𝣳𝣳񂱡𝣾𝤊񂱡𝤓𝤊	¿zoo
-𝠀񀀡񂤁񅰡񃸁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񃸁𝤛𝣺		¿117
-𝠀񀀡񂤁񅰡񃸁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񃸁𝤛𝣺		¿one	hundred	seventeen
-𝠀񀀡񂤁񅰡񃸁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񃸁𝤛𝣺		¿one-hundred-seventeen
-𝠀񀀡񂤁񅰡񄙁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񄙁𝤛𝣺		¿118
-𝠀񀀡񂤁񅰡񄙁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񄙁𝤛𝣺		¿one	hundred	eighteen
-𝠀񀀡񂤁񅰡񄙁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񄙁𝤛𝣺		¿one-hundred-eighteen
-𝠀񀀡񂤁񅰡񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񄵡𝤛𝣸		¿119
-𝠀񀀡񂤁񅰡񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񄵡𝤛𝣸		¿one	hundred	nineteen
-𝠀񀀡񂤁񅰡񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񄵡𝤛𝣸		¿one-hundred-nineteen
-𝠀񀀡񂤁񅰡񉸑𝠃𝤨𝤡񀀡𝣥𝤃񂤁𝣸𝤍񅰡𝤎𝤉񉸑𝤕𝣫		¿110
-𝠀񀀡񂤁񅰡񉸑𝠃𝤨𝤡񀀡𝣥𝤃񂤁𝣸𝤍񅰡𝤎𝤉񉸑𝤕𝣫		¿one	hundred	ten
-𝠀񀀡񂤁񅰡񉸑𝠃𝤨𝤡񀀡𝣥𝤃񂤁𝣸𝤍񅰡𝤎𝤉񉸑𝤕𝣫		¿one-hundred-ten
-𝠀񀀡񂤁񈗧񋵡𝠃𝤤𝤕񋵡𝤙𝣽񈗧𝤔𝤅񂤁𝣾𝤁񀀡𝣩𝣷		¿100
-𝠀񀀡񂤁񈗧񋵡𝠃𝤤𝤕񋵡𝤙𝣽񈗧𝤔𝤅񂤁𝣾𝤁񀀡𝣩𝣷		¿one	hundred
-𝠀񀀡񂤁񈗧񋵡𝠃𝤤𝤕񋵡𝤙𝣽񈗧𝤔𝤅񂤁𝣾𝤁񀀡𝣩𝣷		¿one-hundred
-𝠀񀀡񂱡񀀡𝠃𝤢𝤖񀀡𝣫𝣷񂱡𝣿𝤆񀀡𝤓𝣷		¿101
-𝠀񀀡񂱡񀀡𝠃𝤢𝤖񀀡𝣫𝣷񂱡𝣿𝤆񀀡𝤓𝣷		¿one	hundred	one
-𝠀񀀡񂱡񀀡𝠃𝤢𝤖񀀡𝣫𝣷񂱡𝣿𝤆񀀡𝤓𝣷		¿one-hundred-one
-𝠀񀀡񂱡񀕡𝠃𝤡𝤖񀀡𝣫𝣷񂱡𝣾𝤆񀕡𝤒𝣷		¿102
-𝠀񀀡񂱡񀕡𝠃𝤡𝤖񀀡𝣫𝣷񂱡𝣾𝤆񀕡𝤒𝣷		¿one	hundred	two
-𝠀񀀡񂱡񀕡𝠃𝤡𝤖񀀡𝣫𝣷񂱡𝣾𝤆񀕡𝤒𝣷		¿one-hundred-two
-𝠀񀀡񂱡񁦡𝠃𝤣𝤖񀀡𝣩𝣷񂱡𝣻𝤆񁦡𝤍𝣶	¿104
-𝠀񀀡񂱡񁦡𝠃𝤣𝤖񀀡𝣩𝣷񂱡𝣻𝤆񁦡𝤍𝣶	¿one	hundred	four
-𝠀񀀡񂱡񁦡𝠃𝤣𝤖񀀡𝣩𝣷񂱡𝣻𝤆񁦡𝤍𝣶	¿one-hundred-four
-𝠀񀀡񆿁𝠃𝤎𝤡񀀡𝣿𝤃񆿁𝤁𝣬	¿God
-𝠀񀀡񆿅񃸁𝠃𝤑𝤭񀀡𝣾𝣟񃸁𝣼𝤑񆿅𝣿𝤀	¿1/7
-𝠀񀀡񆿅񃸁𝠃𝤑𝤭񀀡𝣾𝣟񃸁𝣼𝤑񆿅𝣿𝤀	¿one	seventh
-𝠀񀀡񆿅񃸁𝠃𝤑𝤭񀀡𝣾𝣟񃸁𝣼𝤑񆿅𝣿𝤀	¿one-seventh
-𝠀񀀡񇧫񂱡񆱵񈗧𝠃𝤰𝤗񀀡𝣝𝣹񇧫𝣣𝣶񂱡𝤎𝤇񆱵𝤉𝣾񈗧𝤡𝤈	¿zoo
-𝠀񀀡񂱡񁲡𝠃𝤤𝤖񀀡𝣨𝣷񂱡𝣺𝤆񁲡𝤍𝣷	¿105
-𝠀񀀡񂱡񁲡𝠃𝤤𝤖񀀡𝣨𝣷񂱡𝣺𝤆񁲡𝤍𝣷	¿one	hundred	five
-𝠀񀀡񂱡񁲡𝠃𝤤𝤖񀀡𝣨𝣷񂱡𝣺𝤆񁲡𝤍𝣷	¿one-hundred-five
-𝠀񀀡񆿁񌱡𝠃𝤘𝤘񀀡𝣿𝣊񆿁𝤁𝢰񌱡𝣴𝣵	¿Up	there
-𝠀񀀡񆿁񌱡𝠃𝤘𝤘񀀡𝣿𝣊񆿁𝤁𝢰񌱡𝣴𝣵	¿god
-𝠀񀀡񆿁񌱡𝠃𝤘𝤘񀀡𝣿𝣊񆿁𝤁𝢰񌱡𝣴𝣵	¿He	is	above
-𝠀񀀡񆿅񄙁𝠃𝤑𝤰񀀡𝣼𝣝񄙁𝣼𝤔񆿅𝣾𝤀	¿1/8
-𝠀񀀡񆿅񄙁𝠃𝤑𝤰񀀡𝣼𝣝񄙁𝣼𝤔񆿅𝣾𝤀	¿one	eighth
-𝠀񀀡񆿅񄙁𝠃𝤑𝤰񀀡𝣼𝣝񄙁𝣼𝤔񆿅𝣾𝤀	¿one-eighth
-𝠀񀀡񈗡񀉡𝠃𝤑𝤬񀀡𝤁𝤎񈗡𝤁𝣾񀉡𝣼𝣠	¿ask
-𝠀񀀡񈗡񀉡𝠃𝤑𝤬񀀡𝤁𝤎񈗡𝤁𝣾񀉡𝣼𝣠	¿I	ask	you
-𝠀񀀡񂱡񃋁𝠃𝤡𝤖񀀡𝣫𝣷񂱡𝣽𝤆񃋁𝤏𝣹	¿106
-𝠀񀀡񂱡񃋁𝠃𝤡𝤖񀀡𝣫𝣷񂱡𝣽𝤆񃋁𝤏𝣹	¿one	hundred	six
-𝠀񀀡񂱡񃋁𝠃𝤡𝤖񀀡𝣫𝣷񂱡𝣽𝤆񃋁𝤏𝣹	¿one-hundred-six
-𝠀񀀡񂱡񃸁𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣻𝤆񃸁𝤏𝣺	¿107
-𝠀񀀡񂱡񃸁𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣻𝤆񃸁𝤏𝣺	¿one	hundred	seven
-𝠀񀀡񂱡񃸁𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣻𝤆񃸁𝤏𝣺	¿one-hundred-seven
-𝠀񀀡񂱡񄙁𝠃𝤣𝤖񀀡𝣩𝣷񂱡𝣻𝤆񄙁𝤎𝣺	¿108
-𝠀񀀡񂱡񄙁𝠃𝤣𝤖񀀡𝣩𝣷񂱡𝣻𝤆񄙁𝤎𝣺	¿one	hundred	eight
-𝠀񀀡񂱡񄙁𝠃𝤣𝤖񀀡𝣩𝣷񂱡𝣻𝤆񄙁𝤎𝣺	¿one-hundred-eight
-𝠀񀀡񂱡񄵡𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣻𝤆񄵡𝤎𝣸	¿109
-𝠀񀀡񂱡񄵡𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣻𝤆񄵡𝤎𝣸	¿one	hundred	nine
-𝠀񀀡񂱡񄵡𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣻𝤆񄵡𝤎𝣸	¿one-hundred-nine
-𝠀񀀡񄙁񀀡𝠃𝤤𝤕񀀡𝣩𝣷񀀡𝤕𝣷񄙁𝣽𝣹	¿181
-𝠀񀀡񄙁񀀡𝠃𝤤𝤕񀀡𝣩𝣷񀀡𝤕𝣷񄙁𝣽𝣹	¿one	hundred	eighty	one
-𝠀񀀡񄙁񀀡𝠃𝤤𝤕񀀡𝣩𝣷񀀡𝤕𝣷񄙁𝣽𝣹	¿one-hundred-eighty-one
-𝠀񀀡񆿁񌱡𝠃𝤧𝤘񌱡𝣴𝣵񀀡𝤘𝣖񆿁𝤚𝣁	¿he	above
-𝠀񀀡񆿅񄵡𝠃𝤑𝤯񀀡𝣻𝣝񄵡𝣻𝤑񆿅𝣽𝣿	¿1/9
-𝠀񀀡񆿅񄵡𝠃𝤑𝤯񀀡𝣻𝣝񄵡𝣻𝤑񆿅𝣽𝣿	¿one	ninth
-𝠀񀀡񆿅񄵡𝠃𝤑𝤯񀀡𝣻𝣝񄵡𝣻𝤑񆿅𝣽𝣿	¿one-ninth
-𝠀񀀡񈗡񋵡񋲡𝠃𝤎𝤤񀀡𝣿𝤆񋲡𝤂𝣩񋵡𝤂𝣳񈗡𝤀𝣻	¿just	a	minute
-𝠀񀀡񆿅񀁑񂇹񆉃񍝁𝠃𝤘𝥚񍝁𝣴𝣵񆉃𝣣𝥂񆿅𝤄𝤰񂇹𝣰𝤽񀁑𝤀𝤺񀀡𝤄𝤌	¿fall	in	love
-𝠀񀀡񆿅񅰡𝠃𝤏𝤭񀀡𝣾𝣠񅰡𝤀𝤕񆿅𝤀𝤃		¿1/10
-𝠀񀀡񆿅񅰡𝠃𝤏𝤭񀀡𝣾𝣠񅰡𝤀𝤕񆿅𝤀𝤃		¿one	tenth
-𝠀񀀡񆿅񅰡𝠃𝤏𝤭񀀡𝣾𝣠񅰡𝤀𝤕񆿅𝤀𝤃		¿one-tenth
-𝠀񀀡񈗥񆡁񆇡񌒁𝠃𝤘𝤘񌒁𝣴𝣵񀀡𝣟𝣇񈗥𝣲𝣔񆡁𝣵𝣧񆇡𝤁𝣵	¿puzzled
-𝠀񀀡񆿅񃁒񂇹񆇡𝠃𝤛𝤮񆇡𝣱𝤟񂇹𝣾𝤓񃁒𝤂𝤕񀀡𝤈𝣟񆿅𝤉𝤁	¿1000
-𝠀񀀡񆿅񃁒񂇹񆇡𝠃𝤛𝤮񆇡𝣱𝤟񂇹𝣾𝤓񃁒𝤂𝤕񀀡𝤈𝣟񆿅𝤉𝤁	¿one	thousand
-𝠀񀀡񆿅񃁒񂇹񆇡𝠃𝤛𝤮񆇡𝣱𝤟񂇹𝣾𝤓񃁒𝤂𝤕񀀡𝤈𝣟񆿅𝤉𝤁	¿one-thousand
 𝠀񀀡񈙁𝠃𝤎𝤣񀀡𝣿𝤅񈙁𝣾𝣪	¿person	walking	forward
 𝠀񀀡񇀡𝠃𝤒𝤢񀀡𝣻𝤄񇀡𝤂𝣪	¿up
 𝠀񀀡񈙈𝠃𝤘𝤛񀀡𝣴𝣽񈙈𝤂𝣱	¿go	right
@@ -1020,6 +707,16 @@
 𝠀񀀡񇧫𝠃𝤘𝤗񀀡𝣴𝣹񇧫𝣹𝣵	¿z
 𝠀񀀡񈚧񈚣𝠃𝤝𝤥񀀡𝣻𝣧񈚧𝣳𝤆񈚣𝣯𝤕	¿wander
 𝠀񀀡񈝨𝠃𝤓𝤚񀀡𝣺𝣼񈝨𝤀𝣳	¿go	one	handed
+𝠀񀀡񆿁񌱡𝠃𝤧𝤘񌱡𝣴𝣵񀀡𝤘𝣖񆿁𝤚𝣁	¿he	above
+𝠀񀀡񆿅񄵡𝠃𝤑𝤯񀀡𝣻𝣝񄵡𝣻𝤑񆿅𝣽𝣿	¿1/9
+𝠀񀀡񆿅񄵡𝠃𝤑𝤯񀀡𝣻𝣝񄵡𝣻𝤑񆿅𝣽𝣿	¿one	ninth
+𝠀񀀡񆿅񄵡𝠃𝤑𝤯񀀡𝣻𝣝񄵡𝣻𝤑񆿅𝣽𝣿	¿one-ninth
+𝠀񀀡񈗡񋵡񋲡𝠃𝤎𝤤񀀡𝣿𝤆񋲡𝤂𝣩񋵡𝤂𝣳񈗡𝤀𝣻	¿just	a	minute
+𝠀񀀡񆿅񀁑񂇹񆉃񍝁𝠃𝤘𝥚񍝁𝣴𝣵񆉃𝣣𝥂񆿅𝤄𝤰񂇹𝣰𝤽񀁑𝤀𝤺񀀡𝤄𝤌	¿fall	in	love
+𝠀񀀡񆿅񅰡𝠃𝤏𝤭񀀡𝣾𝣠񅰡𝤀𝤕񆿅𝤀𝤃		¿1/10
+𝠀񀀡񆿅񅰡𝠃𝤏𝤭񀀡𝣾𝣠񅰡𝤀𝤕񆿅𝤀𝤃		¿one tenth
+𝠀񀀡񆿅񅰡𝠃𝤏𝤭񀀡𝣾𝣠񅰡𝤀𝤕񆿅𝤀𝤃		¿one-tenth
+𝠀񀀡񈗥񆡁񆇡񌒁𝠃𝤘𝤘񌒁𝣴𝣵񀀡𝣟𝣇񈗥𝣲𝣔񆡁𝣵𝣧񆇡𝤁𝣵	¿puzzled
 𝠀񀀡񋎥񀀁𝠃𝤡𝤖񀀁𝤒𝣸񀀡𝣫𝣸񋎥𝣻𝣷	¿first
 𝠀񀀡񋎥񀀁𝠃𝤡𝤖񀀁𝤒𝣸񀀡𝣫𝣸񋎥𝣻𝣷	¿1st
 𝠀񀀢񀀪񆐡񁲃񁲋񈘁񈘁񆄩񆄡񎣡𝠃𝤣𝥊񈘁𝤍𝤕񁲃𝤄𝤪񆐡𝣾𝣃񁲋𝣣𝤪񈘁𝣭𝤘񆄩𝣪𝤁񆄡𝤍𝤀񀀢𝤀𝣗񀀪𝣬𝣖񎣡𝣱𝥆	¿incurable
@@ -1091,13 +788,13 @@
 𝠀񀀩񈙘񀕡𝠃𝤦𝤡񀀩𝤁𝣫񀕡𝤗𝣫񈙘𝣦𝤋	¿one	person	meets	two
 𝠀񀀱񀀹񉳁񉳙񋸡񈘇񀀱񀀹񉳁񉳙񋸡𝠃𝥆𝤥񀀱𝣧𝤇񀀹𝣋𝤇񉳁𝣣𝣬񉳙𝣆𝣬񋸡𝣙𝣩񈘇𝣾𝤕񀀹𝤗𝤇񀀱𝤳𝤆񉳙𝤓𝣬񉳁𝤯𝣬񋸡𝤦𝣨	¿events
 𝠀񀀱񀀹񉳁񉳙񋸡񈘇񀀱񀀹񉳁񉳙񋸡𝠃𝥆𝤥񀀱𝣧𝤇񀀹𝣋𝤇񉳁𝣣𝣬񉳙𝣆𝣬񋸡𝣙𝣩񈘇𝣾𝤕񀀹𝤗𝤇񀀱𝤳𝤆񉳙𝤓𝣬񉳁𝤯𝣬񋸡𝤦𝣨	¿happenings
-𝠀񀁁񀁉񇕡񇕱񌱡𝠃𝤡𝥲񀁁𝤋𝥔񀁉𝣭𝥔񇕡𝤍𝤫񇕱𝣩𝤬񌱡𝣴𝣵	¿dedicate	to	god
+𝠀񀁁񀁉񇕡񇕱񌱡𝠃𝤡𝥲񀁁𝤋𝥔񀁉𝣭𝥔񇕡𝤍𝤫񇕱𝣩𝤬񌱡𝣴𝣵	¿dedicate to  god
 𝠀񀁁񇀥𝠃𝤏𝤨񀁁𝣾𝣤񇀥𝣿𝤊	¿dropping
 𝠀񀁁񈗨񈗡񈗢񋁁𝠃𝤝𝤦񀁁𝣼𝤈񈗨𝤐𝣭񈗡𝤀𝣧񈗢𝣰𝣮񋁁𝣸𝣽	¿you	left	one
 𝠀񀁁񈗨񈗡񈗢񋁁𝠃𝤝𝤦񀁁𝣼𝤈񈗨𝤐𝣭񈗡𝤀𝣧񈗢𝣰𝣮񋁁𝣸𝣽	¿they	left	one
 𝠀񀀪񀀤񉳍񆉁񋾡𝠃𝥆𝤘񆉁𝤚𝣹񀀪𝤨𝣝񉳍𝤪𝣷񋾡𝣴𝣵񀀤𝤎𝣩	¿government
-𝠀񀀱񀀹񉳁񉳙񋸡񌄡񌏁𝠃𝤣𝥣񀀱𝤐𝥅񀀹𝣰𝥅񉳁𝤌𝤪񉳙𝣬𝤪񋸡𝣿𝤥񌄡𝣴𝣯񌏁𝣴𝣺	¿what	is	happening?
-𝠀񀀱񀀹񉳁񉳙񋸡񌄡񌏁𝠃𝤣𝥣񀀱𝤐𝥅񀀹𝣰𝥅񉳁𝤌𝤪񉳙𝣬𝤪񋸡𝣿𝤥񌄡𝣴𝣯񌏁𝣴𝣺	¿what’s	happening?
+𝠀񀀱񀀹񉳁񉳙񋸡񌄡񌏁𝠃𝤣𝥣񀀱𝤐𝥅񀀹𝣰𝥅񉳁𝤌𝤪񉳙𝣬𝤪񋸡𝣿𝤥񌄡𝣴𝣯񌏁𝣴𝣺	¿what is happening?
+𝠀񀀱񀀹񉳁񉳙񋸡񌄡񌏁𝠃𝤣𝥣񀀱𝤐𝥅񀀹𝣰𝥅񉳁𝤌𝤪񉳙𝣬𝤪񋸡𝣿𝤥񌄡𝣴𝣯񌏁𝣴𝣺	¿what’s happening?
 𝠀񀁁񀁉񈇅񈇕񈙁񈙑𝠃𝤬𝤵񀁁𝤐𝣺񀁉𝣥𝤗񈇅𝤌𝣘񈇕𝣡𝣱񈙑𝣰𝣲񈙁𝤜𝣡	¿cannons
 𝠀񀁁񇎁񈚧񈗡𝠃𝤜𝤺񈗡𝣽𝣒񀁁𝣺𝣮񈚧𝣲𝤐񇎁𝣱𝤬		¿there	3	times
 𝠀񀁁񇎁񈚧񈗡𝠃𝤜𝤺񈗡𝣽𝣒񀁁𝣺𝣮񈚧𝣲𝤐񇎁𝣱𝤬		¿there three times
@@ -1199,8 +896,8 @@
 𝠀񀁂񋁏𝠃𝤛𝤢񀁂𝤆𝤄񋁏𝣲𝣫	¿they	all
 𝠀񀁂񋁏𝠃𝤛𝤢񀁂𝤆𝤄񋁏𝣲𝣫	¿You	direction	to	left
 𝠀񀁂񋁏𝠃𝤛𝤢񀁂𝤆𝤄񋁏𝣲𝣫	¿you	all
-𝠀񀁈񀁐𝠃𝤮𝤑񀁈𝤐𝣼񀁐𝣞𝣼	¿point	right	to	left
-𝠀񀁂񍲁𝠃𝤘𝥁񀁂𝣰𝤣񍲁𝣴𝣵	¿look
+𝠀񀁈񀁐𝠃𝤮𝤑񀁈𝤐𝣼񀁐𝣞𝣼		¿point	right	to	left
+𝠀񀁂񍲁𝠃𝤘𝥁񀁂𝣰𝤣񍲁𝣴𝣵¿look
 𝠀񀁄񆇡񋁁񆇡𝠃𝤦𝤘񆇡𝤀𝤌񆇡𝣧𝤍񀁄𝤈𝣴񋁁𝣨𝣾	¿we
 𝠀񀁈񆿈𝠃𝤕𝤘񀁈𝣷𝤃񆿈𝤇𝣴	¿there
 𝠀񀁂񍲁񈙁񎣡𝠃𝤲𝤪񀁂𝤙𝤌񍲁𝣴𝣵񎣡𝣱𝤛񈙁𝤢𝣰	¿hindsight
@@ -1219,8 +916,8 @@
 𝠀񀁑񀁙񇋁񇋑𝠃𝤳𝤣񀁑𝤝𝤅񀁙𝣠𝤅񇋁𝤙𝣪񇋑𝣙𝣪	¿go
 𝠀񀁈񇀥𝠃𝤘𝤟񀁈𝣵𝣭񇀥𝤈𝤁	¿you	formal
 𝠀񀁈񈗨𝠃𝤙𝤜񀁈𝣳𝤇񈗨𝤌𝣱	¿look	there	right	one
-𝠀񀁈񈗨𝠃𝤙𝤜񀁈𝣳𝤇񈗨𝤌𝣱	¿there	right
-𝠀񀁉񀁁񈝦񈝶𝠃𝤞𝤥񀁉𝤍𝤇񀁁𝣯𝤃񈝦𝤋𝣧񈝶𝣰𝣧		¿go	backwards	right
+𝠀񀁈񈗨𝠃𝤙𝤜񀁈𝣳𝤇񈗨𝤌𝣱	¿there right
+𝠀񀁉񀁁񈝦񈝶𝠃𝤞𝤥񀁉𝤍𝤇񀁁𝣯𝤃񈝦𝤋𝣧񈝶𝣰𝣧		¿go backwards right
 𝠀񀁑񀀹񆙡񉵉𝠃𝤚𝤥񉵉𝤀𝣧񀀹𝣳𝤀񆙡𝤍𝤐񀁑𝣺𝤇		¿translate
 𝠀񀁑񀁙񇣃񇣛񋸥𝠃𝤝𝤩񇣃𝤇𝤇񇣛𝣯𝤇񀁑𝤇𝣣񀁙𝣴𝣣񋸥𝣿𝤣	¿pad
 𝠀񀁑񀁙񇣃񇣛񋸥𝠃𝤝𝤩񇣃𝤇𝤇񇣛𝣯𝤇񀁑𝤇𝣣񀁙𝣴𝣣񋸥𝣿𝤣	¿Square
@@ -1231,18 +928,18 @@
 𝠀񀁑񀁑񇂆񇂄񂇁񋾡𝠃𝤨𝥚񋾡𝣴𝣵񀁑𝤙𝤗񀁑𝣦𝤗񇂆𝣺𝤹񂇁𝣿𝤶񇂄𝣰𝤹	¿annul
 𝠀񀁑񀁙񇤣񇤻񆄲񆄴񇿤񇿶񆪁񆪁񁲒񁲚񋵡񋵡𝠃𝥒𝥇񀁑𝤉𝣇񀁙𝣭𝣆񇤣𝤒𝣭񇤻𝣚𝣭񁲒𝤋𝤤񁲚𝣤𝤥񇿤𝤬𝤎񇿶𝣉𝤔񆪁𝤣𝤣񆪁𝣜𝤧񆄲𝤽𝣾񆄴𝢺𝤀񋵡𝤍𝥂񋵡𝣰𝥁	¿microwave
 𝠀񀁈񈅨𝠃𝤗𝤚񀁈𝣵𝤅񈅨𝤄𝣳	¿he	down	right
-𝠀񀁈񈅨𝠃𝤗𝤚񀁈𝣵𝤅񈅨𝤄𝣳	¿he	is	down
+𝠀񀁈񈅨𝠃𝤗𝤚񀁈𝣵𝤅񈅨𝤄𝣳	¿he is	down
 𝠀񀁈񈗨񌶈𝠃𝤯𝤽񀁈𝤏𝤨񈗨𝤢𝤔񌶈𝣴𝣵		¿he
 𝠀񀁈񈗨񌶈𝠃𝤯𝤽񀁈𝤏𝤨񈗨𝤢𝤔񌶈𝣴𝣵		¿she
 𝠀񀁊񁳂񉸒𝠃𝤟𝤢񀁊𝣮𝤄񁳂𝣭𝣪񉸒𝤆𝤅	¿leaf
 𝠀񀁑񀁙񆇡񈙈𝠃𝤣𝤜񀁙𝣪𝣾񀁑𝣼𝣾񆇡𝣶𝣱񈙈𝤍𝣵	¿estranged
 𝠀񀁑񀁙񇦃񇦛񋸥𝠃𝤨𝤯񀁑𝤉𝣝񀁙𝣳𝣝񇦃𝤇𝤂񇦛𝣤𝤃񋸥𝣿𝤩	¿sign
 𝠀񀁈񉛈񎲫񎲬񎓡𝠃𝤸𝤭񎓡𝣴𝣵񎲫𝤎𝣦񎲬𝤌𝣫񀁈𝣚𝤘񉛈𝤞𝤎	¿pothead
-𝠀񀁊񂂸񆄾񈗨񆕁񍪡𝠃𝤰𝥟񍪡𝣴𝣵񆕁𝤎𝤾񈗨𝤘𝤭񆄾𝤛𝤔񂂸𝣶𝤮񀁊𝤓𝥁	¿far	out
-𝠀񀁑񀁙񆇡񈷃񈷛񆇡𝠃𝤸𝤠񀁑𝤩𝣴񀁙𝣔𝣱񈷃𝤈𝣶񈷛𝣧𝣶񆇡𝤀𝣬񆇡𝤀𝤕	¿windows	CL
+𝠀񀁊񂂸񆄾񈗨񆕁񍪡𝠃𝤰𝥟񍪡𝣴𝣵񆕁𝤎𝤾񈗨𝤘𝤭񆄾𝤛𝤔񂂸𝣶𝤮񀁊𝤓𝥁	¿far out
+𝠀񀁑񀁙񆇡񈷃񈷛񆇡𝠃𝤸𝤠񀁑𝤩𝣴񀁙𝣔𝣱񈷃𝤈𝣶񈷛𝣧𝣶񆇡𝤀𝣬񆇡𝤀𝤕	¿windows CL
 𝠀񀁑񀁙񈗡񈚡񈬨𝠃𝤞𝤯񀁑𝤎𝤑񀁙𝣯𝤑񈚡𝣵𝣢񈗡𝤈𝣺񈬨𝤐𝣝	¿stray
-𝠀񀁈񈗨𝠃𝤖𝤙񀁈𝣷𝤄񈗨𝤉𝣴	¿he	right
-𝠀񀁈񋁇𝠃𝤤𝤟񀁈𝣨𝤊񋁇𝤎𝣭	¿them	right
+𝠀񀁈񈗨𝠃𝤖𝤙񀁈𝣷𝤄񈗨𝤉𝣴	¿he right
+𝠀񀁈񋁇𝠃𝤤𝤟񀁈𝣨𝤊񋁇𝤎𝣭	¿them right
 𝠀񀁊񅠱񆕁񈟈𝠃𝤥𝤡񆕁𝤇𝣻񈟈𝤐𝣬񀁊𝣨𝤃񅠱𝣻𝤊	¿beans
 𝠀񀁑񀁙񆉁𝠃𝤗𝤝񀁑𝤈𝣿񀁙𝣶𝣿񆉁𝣻𝣰	¿also
 𝠀񀁑񀁙񆉁𝠃𝤗𝤝񀁑𝤈𝣿񀁙𝣶𝣿񆉁𝣻𝣰	¿Like
@@ -1295,7 +992,7 @@
 𝠀񀁑񂇷񆕁񈟇𝠃𝤢𝤙񂇷𝣪𝤍񀁑𝣯𝣴񆕁𝤅𝤃񈟇𝤔𝣾		¿every week
 𝠀񀁑񆕁񈗡񂇙񅲱񆇡𝠃𝤕𝥆񂇙𝣸𝣬񀁑𝤆𝣫񆕁𝤇𝣚񈗡𝤆𝣆񅲱𝣾𝤨񆇡𝤀𝤻		¿suicide
 𝠀񀁑񋔡𝠃𝤔𝤣񋔡𝣹𝣩񀁑𝤅𝤅	¿circle
-𝠀񀁒񀁚񈬥񈬽񈗣񈗷񆇡񆇡𝠃𝤩𝤳񀁒𝤋𝣭񀁚𝣣𝣭񈬥𝤐𝤀񈬽𝣲𝤀񈗣𝤉𝤘񈗷𝣷𝤗񆇡𝣿𝣚񆇡𝤃𝤨	¿baseball	plate
+𝠀񀁒񀁚񈬥񈬽񈗣񈗷񆇡񆇡𝠃𝤩𝤳񀁒𝤋𝣭񀁚𝣣𝣭񈬥𝤐𝤀񈬽𝣲𝤀񈗣𝤉𝤘񈗷𝣷𝤗񆇡𝣿𝣚񆇡𝤃𝤨	¿baseball plate
 𝠀񀁑񀁙񊻡𝠃𝤛𝤩񀁑𝤌𝤊񀁙𝣲𝤋񊻡𝣷𝣤	¿during
 𝠀񀁑񂇻񆕁񈟇𝠃𝤛𝤡񂇻𝣲𝣬񀁑𝣻𝤂񆕁𝤃𝣺񈟇𝤍𝤆		¿investigate
 𝠀񀁑񂇻񆕁񈟇𝠃𝤛𝤡񂇻𝣲𝣬񀁑𝣻𝤂񆕁𝤃𝣺񈟇𝤍𝤆		¿research
@@ -1334,13 +1031,13 @@
 𝠀񀁒񂇸񆕁񈟈𝠃𝤥𝤟񂇸𝣴𝤈񀁒𝣧𝤂񆕁𝤈𝣹񈟈𝤐𝣭	¿weekly
 𝠀񀁒񈙂𝠃𝤜𝤜񀁒𝣾𝤇񈙂𝣱𝣰	¿there
 𝠀񀁞񀁖񈵣񈵻񋸥񀁞񀁖񈵣񈵻񋸥񀁞񀁖񈵣񈵻񋸥𝠃𝥯𝤻񀁞𝤏𝣑񀁖𝢞𝣿񈵣𝣄𝤖񈵻𝣫𝣫񋸥𝢶𝤴񀁞𝣃𝣾񀁞𝥑𝣻񀁖𝣦𝣒񀁖𝤯𝣹񈵣𝤇𝣫񈵣𝥒𝤖񈵻𝤷𝤖񈵻𝢩𝤗񋸥𝤀𝤉񋸥𝥆𝤵	¿tile
-𝠀񀁞񀁖񈵣񈵻񋸥񀁞񀁖񈵣񈵻񋸥񀁞񀁖񈵣񈵻񋸥𝠃𝥯𝤻񀁞𝤏𝣑񀁖𝢞𝣿񈵣𝣄𝤖񈵻𝣫𝣫񋸥𝢶𝤴񀁞𝣃𝣾񀁞𝥑𝣻񀁖𝣦𝣒񀁖𝤯𝣹񈵣𝤇𝣫񈵣𝥒𝤖񈵻𝤷𝤖񈵻𝢩𝤗񋸥𝤀𝤉񋸥𝥆𝤵	¿paving	stones
+𝠀񀁞񀁖񈵣񈵻񋸥񀁞񀁖񈵣񈵻񋸥񀁞񀁖񈵣񈵻񋸥𝠃𝥯𝤻񀁞𝤏𝣑񀁖𝢞𝣿񈵣𝣄𝤖񈵻𝣫𝣫񋸥𝢶𝤴񀁞𝣃𝣾񀁞𝥑𝣻񀁖𝣦𝣒񀁖𝤯𝣹񈵣𝤇𝣫񈵣𝥒𝤖񈵻𝤷𝤖񈵻𝢩𝤗񋸥𝤀𝤉񋸥𝥆𝤵	¿paving stones
 𝠀񀁢񀁪񋁉񋁑񀂐񀂈񆇡񆇡񋾡𝠃𝥞𝤯񋾡𝣴𝣵񀁢𝤗𝤒񀁪𝣤𝤓񋁉𝤬𝤞񀂈𝥌𝤌񆇡𝣳𝤗񆇡𝤏𝤖񀂐𝢰𝤋񋁑𝣅𝤜	¿declaration
 𝠀񀁒񂇸񆕁񋁇𝠃𝤥𝤛񂇸𝣵𝤄񀁒𝣨𝣾񆕁𝤎𝤌񋁇𝤏𝣲	¿next	week
 𝠀񀁒񉍣𝠃𝤣𝤚񉍣𝣪𝣳񀁒𝤅𝤅		¿over	there
 𝠀񀁔񋔡񍘡𝠃𝤩𝤨񍘡𝣴𝣵񀁔𝤐𝣯񋔡𝤒𝤍		¿mouth
 𝠀񀁞񉜫񋲡񋲡񋲡񄾢񂇇񆕁񆿇񆿇񋵡𝠃𝤼𝥍񂇇𝣐𝤶񋵡𝣕𝤪񀁒𝤞𝣤񉜫𝣴𝣀񋲡𝣮𝣔񋲡𝤂𝣓񋲡𝤖𝣓񄾢𝣺𝤏񆕁𝣭𝤶񆿇𝣼𝤯񆿇𝣼𝥀	¿count
-𝠀񀁢񆉁񎣡񏇲𝠃𝤛𝤟񀁢𝣩𝣶񆉁𝣨𝤔񎣡𝣱𝣭	¿name	design
+𝠀񀁢񆉁񎣡񏇲𝠃𝤛𝤟񀁢𝣩𝣶񆉁𝣨𝤔񎣡𝣱𝣭	¿name design
 𝠀񀁨񆇡񆇡񌀆𝠃𝤫𝤥񌀆𝣴𝣵񀁨𝤏𝤎񆇡𝤛𝤅񆇡𝤄𝤚	¿dormitory
 𝠀񀁱񀁹񊒡񊒲񎸧񎸧񋾡𝠃𝤟𝤳񋾡𝣴𝣵񀁱𝣷𝤒񀁹𝣠𝤈񊒡𝤉𝤘񊒲𝣋𝤍񎸧𝤏𝤱񎸧𝣇𝤦	¿answer
 𝠀񀁱񈗡񋾡𝠃𝤪𝤰񋾡𝣴𝣵񀁱𝣷𝤒񈗡𝤜𝤆	¿truly
@@ -1349,9 +1046,9 @@
 𝠀񀁨񆉁񎑡𝠃𝤬𝤩񎑡𝣴𝣵񀁨𝤐𝤎񆉁𝣷𝤞	¿dentist
 𝠀񀁱񀁹񋎧񋎿񋸡𝠃𝤡𝤭񀁱𝤏𝤍񀁹𝣭𝤏񋎧𝤍𝣬񋎿𝣬𝣮񋸡𝣿𝣟	¿department
 𝠀񀁱񋦡񌀅𝠃𝤝𝤱񀁱𝤍𝤏񌀅𝣴𝣵񋦡𝣸𝤝	¿dinner
-𝠀񀂁񁯡񅊡񈗡𝠃𝤨𝤜񀂁𝣥𝣾񁯡𝣹𝤍񅊡𝤌𝣾񈗡𝤚𝣰	¿Delaware
+𝠀񀂁񁯡񅊡񈗡𝠃𝤨𝤜񀂁𝣥𝣾񁯡𝣹𝤍񅊡𝤌𝣾񈗡𝤚𝣰		¿Delaware
 𝠀񀂉񇹡𝠃𝤐𝤩񀂉𝣽𝣤񇹡𝣾𝤈	¿democrat
-𝠀񀁩񀁡񋁇񋁟񋸡񆇡񀂁񀂉𝠃𝤢𝤾񀂁𝤊𝤠񀂉𝣵𝤠񀁩𝣵𝣜񀁡𝤈𝣜񋁇𝤌𝤄񋁟𝣫𝤄񋸡𝣾𝣼񆇡𝤁𝣎	¿denomination
+𝠀񀁩񀁡񋁇񋁟񋸡񆇡񀂁񀂉𝠃𝤢𝤾񀂁𝤊𝤠񀂉𝣵𝤠񀁩𝣵𝣜񀁡𝤈𝣜񋁇𝤌𝤄񋁟𝣫𝤄񋸡𝣾𝣼񆇡𝤁𝣎		¿denomination
 𝠀񀁱񎣡񇀦񆇡񆇡𝠃𝤜𝤦񀁱𝣙𝣧񎣡𝣱𝣱񆇡𝣭𝣼񆇡𝤒𝤛񇀦𝣺𝣿	¿duke
 𝠀񀂁񂇈񇭥𝠃𝤛𝤪񂇈𝣲𝣬񀂁𝤋𝣣񇭥𝤈𝤆	¿design
 𝠀񀂑񀂙񆱵񆱵𝠃𝤨𝤙񆱵𝣤𝣳񀂙𝣯𝣻񀂑𝤍𝣻񆱵𝤎𝣳	¿do-do
@@ -1376,6 +1073,20 @@
 𝠀񀂁𝠃𝤎𝤕񀂁𝣾𝣷	¿d
 𝠀񀂁񈩧𝠃𝤘𝤛񀂁𝣴𝣲񈩧𝤉𝣳	¿democracy
 𝠀񀂡񀂩񆉁𝠃𝤗𝤜񀂡𝤇𝣱񀂩𝣵𝣱񆉁𝣻𝤑	¿dessert
+𝠀񀀡񇧫񂱡񂱡𝠃𝤣𝤚񀀡𝣪𝣻񇧫𝣳𝣳񂱡𝣾𝤊񂱡𝤓𝤊	¿zoo
+𝠀񀀡񆿁𝠃𝤎𝤡񀀡𝣿𝤃񆿁𝤁𝣬	¿God
+𝠀񀀡񆿅񃸁𝠃𝤑𝤭񀀡𝣾𝣟񃸁𝣼𝤑񆿅𝣿𝤀	¿1/7
+𝠀񀀡񆿅񃸁𝠃𝤑𝤭񀀡𝣾𝣟񃸁𝣼𝤑񆿅𝣿𝤀	¿one seventh
+𝠀񀀡񆿅񃸁𝠃𝤑𝤭񀀡𝣾𝣟񃸁𝣼𝤑񆿅𝣿𝤀	¿one-seventh
+𝠀񀀡񇧫񂱡񆱵񈗧𝠃𝤰𝤗񀀡𝣝𝣹񇧫𝣣𝣶񂱡𝤎𝤇񆱵𝤉𝣾񈗧𝤡𝤈	¿zoo
+𝠀񀀡񆿁񌱡𝠃𝤘𝤘񀀡𝣿𝣊񆿁𝤁𝢰񌱡𝣴𝣵	¿Up there
+𝠀񀀡񆿁񌱡𝠃𝤘𝤘񀀡𝣿𝣊񆿁𝤁𝢰񌱡𝣴𝣵	¿god
+𝠀񀀡񆿁񌱡𝠃𝤘𝤘񀀡𝣿𝣊񆿁𝤁𝢰񌱡𝣴𝣵	¿He is above
+𝠀񀀡񆿅񄙁𝠃𝤑𝤰񀀡𝣼𝣝񄙁𝣼𝤔񆿅𝣾𝤀	¿1/8
+𝠀񀀡񆿅񄙁𝠃𝤑𝤰񀀡𝣼𝣝񄙁𝣼𝤔񆿅𝣾𝤀	¿one eighth
+𝠀񀀡񆿅񄙁𝠃𝤑𝤰񀀡𝣼𝣝񄙁𝣼𝤔񆿅𝣾𝤀	¿one-eighth
+𝠀񀀡񈗡񀉡𝠃𝤑𝤬񀀡𝤁𝤎񈗡𝤁𝣾񀉡𝣼𝣠	¿ask
+𝠀񀀡񈗡񀉡𝠃𝤑𝤬񀀡𝤁𝤎񈗡𝤁𝣾񀉡𝣼𝣠	¿I ask you
 𝠃𝤎𝤩񀀑𝣾𝤋񇀡𝣾𝣢	¿God
 𝠃𝤎𝤩񀀑𝣾𝤋񇀡𝣾𝣢	¿khudA	
 𝠃𝤎𝤩񀀑𝣾𝤋񇀡𝣾𝣢	¿ خدا
@@ -1441,29 +1152,295 @@
 𝠀񄵡𝠃𝤑𝤕񄵡𝣻𝣷	¿9
 𝠀񀀡񀀡񂱡𝠃𝤘𝤖񂱡𝤈𝤆񀀡𝣵𝣷 	¿Ten
 𝠀񀀡񀀡񂱡𝠃𝤘𝤖񂱡𝤈𝤆񀀡𝣵𝣷 	¿10
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+𝠀񀀁𝠃𝤎𝤕񀀁𝣿𝣷	¿1	
+𝠀񀀁𝠃𝤎𝤕񀀁𝣿𝣷	¿one	
+𝠀񀀡񂤁񀖑񈙇񇆥𝠃𝤮𝤢񀀡𝣟𝣪񂤁𝣳𝣴񀖑𝤋𝣫񈙇𝤐𝤇񇆥𝤌𝤔	¿122
+𝠀񀀡񂤁񀖑񈙇񇆥𝠃𝤮𝤢񀀡𝣟𝣪񂤁𝣳𝣴񀖑𝤋𝣫񈙇𝤐𝤇񇆥𝤌𝤔	¿one hundred twenty two
+𝠀񀀡񂤁񀖑񈙇񇆥𝠃𝤮𝤢񀀡𝣟𝣪񂤁𝣳𝣴񀖑𝤋𝣫񈙇𝤐𝤇񇆥𝤌𝤔	¿one-hundred-twenty-two
+𝠀񀀡񂤁񀭡񃸁𝠃𝤵𝤖񀀡𝣘𝣷񂤁𝣬𝤁񀭡𝤁𝣷񃸁𝤠𝣺	¿one hundred thirty seven
+𝠀񀀡񂤁񀭡񃸁𝠃𝤵𝤖񀀡𝣘𝣷񂤁𝣬𝤁񀭡𝤁𝣷񃸁𝤠𝣺	¿137
+𝠀񀀡񂤁񀭡񃸁𝠃𝤵𝤖񀀡𝣘𝣷񂤁𝣬𝤁񀭡𝤁𝣷񃸁𝤠𝣺	¿one-hundred-thirty-seven
+𝠀񀀡񂤁񁦡񀭡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁦡𝤃𝣷񀭡𝤚𝣸	¿143
+𝠀񀀡񂤁񁦡񀭡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁦡𝤃𝣷񀭡𝤚𝣸	¿one hundred forty three
+𝠀񀀡񂤁񁦡񀭡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁦡𝤃𝣷񀭡𝤚𝣸	¿one-hundred-forty-three
+𝠀񀀡񂤁񁪡񆱵𝠃𝤦𝤕񀀡𝣧𝣷񂤁𝣻𝤁񆱵𝤌𝣷񁪡𝤒𝣿	¿114
+𝠀񀀡񂤁񁪡񆱵𝠃𝤦𝤕񀀡𝣧𝣷񂤁𝣻𝤁񆱵𝤌𝣷񁪡𝤒𝣿	¿one hundred fourteen
+𝠀񀀡񂤁񁪡񆱵𝠃𝤦𝤕񀀡𝣧𝣷񂤁𝣻𝤁񆱵𝤌𝣷񁪡𝤒𝣿	¿one-hundred-fourteen
+𝠀񀀡񂋹񆙡񆿁𝠃𝤙𝤤񂋹𝣳𝣵񀀡𝤇𝤆񆿁𝤌𝣩񆙡𝤋𝣼	¿tall
+𝠀񀀡񂤁񀭡𝠃𝤦𝤕񀀡𝣧𝣷񂤁𝣻𝤁񀭡𝤏𝣷	¿103
+𝠀񀀡񂤁񀭡𝠃𝤦𝤕񀀡𝣧𝣷񂤁𝣻𝤁񀭡𝤏𝣷	¿one hundred three
+𝠀񀀡񂤁񀭡𝠃𝤦𝤕񀀡𝣧𝣷񂤁𝣻𝤁񀭡𝤏𝣷	¿one-hundred-three
+𝠀񀀡񂤁񀭡񄙁𝠃𝤴𝤖񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񄙁𝤟𝣺	¿138
+𝠀񀀡񂤁񀭡񄙁𝠃𝤴𝤖񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񄙁𝤟𝣺	¿one hundred thirty eight
+𝠀񀀡񂤁񀭡񄙁𝠃𝤴𝤖񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񄙁𝤟𝣺	¿one-hundred-thirty-eight
+𝠀񀀡񂤁񁦡񁲡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁦡𝤃𝣷񁲡𝤚𝣷	¿145
+𝠀񀀡񂤁񁦡񁲡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁦡𝤃𝣷񁲡𝤚𝣷	¿one	hundred forty five
+𝠀񀀡񂤁񁦡񁲡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁦡𝤃𝣷񁲡𝤚𝣷	¿one-hundred-forty-five
+𝠀񀀡񂤁񁲡𝠃𝤧𝤖񀀡𝣦𝣸񂤁𝣺𝤂񁲡𝤐𝣷	¿105
+𝠀񀀡񂤁񁲡𝠃𝤧𝤖񀀡𝣦𝣸񂤁𝣺𝤂񁲡𝤐𝣷	¿one hundred five
+𝠀񀀡񂤁񁲡𝠃𝤧𝤖񀀡𝣦𝣸񂤁𝣺𝤂񁲡𝤐𝣷	¿one-hundred-five
+𝠀񀀡񂌱񆅩񆿅񋾡𝠃𝤘𝥜񀀡𝤄𝤎񋾡𝣴𝣵񆅩𝣲𝥍񂌱𝣵𝤹񆿅𝤊𝤲	¿pledge
+𝠀񀀡񂤁񀭡񀀡𝠃𝤱𝤕񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񀀡𝤢𝣷		¿131
+𝠀񀀡񂤁񀭡񀀡𝠃𝤱𝤕񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񀀡𝤢𝣷		¿one hundred thirty one
+𝠀񀀡񂤁񀭡񀀡𝠃𝤱𝤕񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񀀡𝤢𝣷		¿one-hundred-thirty-one
+𝠀񀀡񂤁񀭡񄵡𝠃𝤴𝤖񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񄵡𝤞𝣸	¿139
+𝠀񀀡񂤁񀭡񄵡𝠃𝤴𝤖񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񄵡𝤞𝣸	¿one hundred thirty nine
+𝠀񀀡񂤁񀭡񄵡𝠃𝤴𝤖񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񄵡𝤞𝣸	¿one-hundred-thirty-nine
+𝠀񀀡񂤁񁦡񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񁦡𝤇𝣶񂱡𝤝𝤆		¿140
+𝠀񀀡񂤁񁦡񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񁦡𝤇𝣶񂱡𝤝𝤆		¿one hundred forty
+𝠀񀀡񂤁񁦡񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񁦡𝤇𝣶񂱡𝤝𝤆		¿one-hundred-forty
+𝠀񀀡񂤁񁲡񀀡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁲡𝤆𝣶񀀡𝤡𝣸		¿151
+𝠀񀀡񂤁񁲡񀀡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁲡𝤆𝣶񀀡𝤡𝣸		¿one hundred fifty one
+𝠀񀀡񂤁񁲡񀀡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁲡𝤆𝣶񀀡𝤡𝣸		¿one-hundred-fifty-one
+𝠀񀀡񂤁𝠃𝤙𝤕񂤁𝤈𝤁񀀡𝣳𝣷	¿100
+𝠀񀀡񂤁𝠃𝤙𝤕񂤁𝤈𝤁񀀡𝣳𝣷	¿one hundred
+𝠀񀀡񂤁𝠃𝤙𝤕񂤁𝤈𝤁񀀡𝣳𝣷	¿one-hundred
+𝠀񀀡񂤁𝠃𝤙𝤕񂤁𝤈𝤁񀀡𝣳𝣷	¿hundred
+𝠀񀀡񂤁񀭡񀕡𝠃𝤱𝤕񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񀕡𝤢𝣷		¿132
+𝠀񀀡񂤁񀭡񀕡𝠃𝤱𝤕񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񀕡𝤢𝣷		¿one hundred thirty two
+𝠀񀀡񂤁񀭡񀕡𝠃𝤱𝤕񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񀕡𝤢𝣷		¿one-hundred-thirty-two
+𝠀񀀡񂤁񀮑񈙇񇆥𝠃𝤲𝤡񀀡𝣚𝣫񂤁𝣮𝣵񀮑𝤃		¿133
+𝠀񀀡񂤁񀮑񈙇񇆥𝠃𝤲𝤡񀀡𝣚𝣫񂤁𝣮𝣵񀮑𝤃		¿one hundred thirty three
+𝠀񀀡񂤁񀮑񈙇񇆥𝠃𝤲𝤡񀀡𝣚𝣫񂤁𝣮𝣵񀮑𝤃		¿one-hundred-thirty-three
+𝠀񀀡񂤁񁦡񃋁𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񁦡𝤆𝣶񃋁𝤝𝣹	¿146
+𝠀񀀡񂤁񁦡񃋁𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񁦡𝤆𝣶񃋁𝤝𝣹	¿one hundred forty six
+𝠀񀀡񂤁񁦡񃋁𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񁦡𝤆𝣶񃋁𝤝𝣹	¿one-hundred-forty-six
+𝠀񀀡񂤁񁲡񀕡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁲡𝤆𝣶񀕡𝤡𝣸		¿152
+𝠀񀀡񂤁񁲡񀕡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁲡𝤆𝣶񀕡𝤡𝣸		¿one hundred fifty two
+𝠀񀀡񂤁񁲡񀕡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁲡𝤆𝣶񀕡𝤡𝣸		¿one-hundred-fifty-two
+𝠀񀀡񂤁񀀁񆫡𝠃𝤧𝤚񀀡𝣥𝣼񂤁𝣹𝤆񀀁𝤐𝣼񆫡𝤕𝣳		¿111
+𝠀񀀡񂤁񀀁񆫡𝠃𝤧𝤚񀀡𝣥𝣼񂤁𝣹𝤆񀀁𝤐𝣼񆫡𝤕𝣳		¿one hundred eleven
+𝠀񀀡񂤁񀀁񆫡𝠃𝤧𝤚񀀡𝣥𝣼񂤁𝣹𝤆񀀁𝤐𝣼񆫡𝤕𝣳		¿one-hundred-eleven
+𝠀񀀡񂤁񀭡񀾁𝠃𝤳𝤕񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񀾁𝤛𝣿	¿130
+𝠀񀀡񂤁񀭡񀾁𝠃𝤳𝤕񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񀾁𝤛𝣿	¿one hundred thirty
+𝠀񀀡񂤁񀭡񀾁𝠃𝤳𝤕񀀡𝣙𝣷񂤁𝣭𝤁񀭡𝤂𝣷񀾁𝤛𝣿	¿one-hundred-thirty
+𝠀񀀡񂤁񁃡񆱵𝠃𝤧𝤙񀀡𝣥𝣻񂤁𝣹𝤅񁃡𝤐𝣻񆱵𝤍𝣳	¿113
+𝠀񀀡񂤁񁃡񆱵𝠃𝤧𝤙񀀡𝣥𝣻񂤁𝣹𝤅񁃡𝤐𝣻񆱵𝤍𝣳	¿one hundred thirteen
+𝠀񀀡񂤁񁃡񆱵𝠃𝤧𝤙񀀡𝣥𝣻񂤁𝣹𝤅񁃡𝤐𝣻񆱵𝤍𝣳	¿one-hundred-thirteen
+𝠀񀀡񂤁񁦡񃸁𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁦡𝤃𝣶񃸁𝤜𝣺	¿147
+𝠀񀀡񂤁񁦡񃸁𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁦡𝤃𝣶񃸁𝤜𝣺	¿one hundred forty seven
+𝠀񀀡񂤁񁦡񃸁𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁦡𝤃𝣶񃸁𝤜𝣺	¿one-hundred-forty-seven
+𝠀񀀡񂤁񁲡񀭡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁲡𝤄𝣷񀭡𝤚𝣸	¿153
+𝠀񀀡񂤁񁲡񀭡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁲡𝤄𝣷񀭡𝤚𝣸	¿one hundred fifty three
+𝠀񀀡񂤁񁲡񀭡𝠃𝤱𝤖񀀡𝣛𝣸񂤁𝣯𝤂񁲡𝤄𝣷񀭡𝤚𝣸	¿one-hundred-fifty-three
+𝠀񀀡񂤁񀀡𝠃𝤣𝤕񀀡𝣩𝣷񂤁𝣽𝤁񀀡𝤔𝣷	¿101
+𝠀񀀡񂤁񀀡𝠃𝤣𝤕񀀡𝣩𝣷񂤁𝣽𝤁񀀡𝤔𝣷	¿one hundred one
+𝠀񀀡񂤁񀀡𝠃𝤣𝤕񀀡𝣩𝣷񂤁𝣽𝤁񀀡𝤔𝣷	¿one-hundred-one
+𝠀񀀡񂤁񀭡񁦡𝠃𝤴𝤖񀀡𝣙𝣸񂤁𝣭𝤂񀭡𝤂𝣸񁦡𝤞𝣷	¿134
+𝠀񀀡񂤁񀭡񁦡𝠃𝤴𝤖񀀡𝣙𝣸񂤁𝣭𝤂񀭡𝤂𝣸񁦡𝤞𝣷	¿one hundred thirty four
+𝠀񀀡񂤁񀭡񁦡𝠃𝤴𝤖񀀡𝣙𝣸񂤁𝣭𝤂񀭡𝤂𝣸񁦡𝤞𝣷	¿one-hundred-thirty-four
+𝠀񀀡񂤁񁦡𝠃𝤦𝤖񀀡𝣧𝣸񂤁𝣻𝤂񁦡𝤐𝣷	¿104
+𝠀񀀡񂤁񁦡𝠃𝤦𝤖񀀡𝣧𝣸񂤁𝣻𝤂񁦡𝤐𝣷	¿one hundred four
+𝠀񀀡񂤁񁦡𝠃𝤦𝤖񀀡𝣧𝣸񂤁𝣻𝤂񁦡𝤐𝣷	¿one-hundred-four
+𝠀񀀡񂤁񁦡񄙁𝠃𝤲𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁦡𝤃𝣶񄙁𝤝𝣺	¿148
+𝠀񀀡񂤁񁦡񄙁𝠃𝤲𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁦡𝤃𝣶񄙁𝤝𝣺	¿one hundred forty eight
+𝠀񀀡񂤁񁦡񄙁𝠃𝤲𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁦡𝤃𝣶񄙁𝤝𝣺	¿one-hundred-forty-eight
+𝠀񀀡񂤁񁲡񁦡𝠃𝤲𝤖񀀡𝣚𝣸񂤁𝣮𝤂񁲡𝤃𝣷񁦡𝤜𝣷	¿154
+𝠀񀀡񂤁񁲡񁦡𝠃𝤲𝤖񀀡𝣚𝣸񂤁𝣮𝤂񁲡𝤃𝣷񁦡𝤜𝣷	¿one hundred fifty four
+𝠀񀀡񂤁񁲡񁦡𝠃𝤲𝤖񀀡𝣚𝣸񂤁𝣮𝤂񁲡𝤃𝣷񁦡𝤜𝣷	¿one-hundred-fifty-four
+𝠀񀀡񂤁񀕁񆫡𝠃𝤤𝤚񀀡𝣨𝣼񂤁𝣼𝤆񀕁𝤒𝣼񆫡𝤒𝣲		¿112
+𝠀񀀡񂤁񀕁񆫡𝠃𝤤𝤚񀀡𝣨𝣼񂤁𝣼𝤆񀕁𝤒𝣼񆫡𝤒𝣲		¿one hundred twelve
+𝠀񀀡񂤁񀕁񆫡𝠃𝤤𝤚񀀡𝣨𝣼񂤁𝣼𝤆񀕁𝤒𝣼񆫡𝤒𝣲		¿one-hundred-twelve
+𝠀񀀡񂤁񀭡񁲡𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񀭡𝤁𝣷񁲡𝤝𝣷	¿135
+𝠀񀀡񂤁񀭡񁲡𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񀭡𝤁𝣷񁲡𝤝𝣷	¿one hundred thirty five
+𝠀񀀡񂤁񀭡񁲡𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񀭡𝤁𝣷񁲡𝤝𝣷	¿one-hundred-thirty-five
+𝠀񀀡񂤁񁦡񀀡𝠃𝤯𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁦡𝤅𝣶񀀡𝤠𝣸		¿141
+𝠀񀀡񂤁񁦡񀀡𝠃𝤯𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁦡𝤅𝣶񀀡𝤠𝣸		¿one hundred forty one
+𝠀񀀡񂤁񁦡񀀡𝠃𝤯𝤖񀀡𝣝𝣷񂤁𝣱𝤁񁦡𝤅𝣶񀀡𝤠𝣸		¿one-hundred-forty-one
+𝠀񀀡񂤁񁦡񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񁦡𝤄𝣶񄵡𝤛𝣸	¿149
+𝠀񀀡񂤁񁦡񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񁦡𝤄𝣶񄵡𝤛𝣸	¿one hundred forty nine
+𝠀񀀡񂤁񁦡񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񁦡𝤄𝣶񄵡𝤛𝣸	¿one-hundred-forty-nine
+𝠀񀀡񂤁񁲡񂱡𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񁲡𝤇𝣶񂱡𝤟𝤆		¿150
+𝠀񀀡񂤁񁲡񂱡𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񁲡𝤇𝣶񂱡𝤟𝤆		¿one hundred fifty
+𝠀񀀡񂤁񁲡񂱡𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񁲡𝤇𝣶񂱡𝤟𝤆		¿one-hundred-fifty
+𝠀񀀡񂤁񀕡𝠃𝤣𝤕񀀡𝣪𝣷񂤁𝣾𝤁񀕡𝤔𝣷	¿102
+𝠀񀀡񂤁񀕡𝠃𝤣𝤕񀀡𝣪𝣷񂤁𝣾𝤁񀕡𝤔𝣷	¿one hundred two
+𝠀񀀡񂤁񀕡𝠃𝤣𝤕񀀡𝣪𝣷񂤁𝣾𝤁񀕡𝤔𝣷	¿one-hundred-two
+𝠀񀀡񂤁񀭡񃋁𝠃𝤲𝤖񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񃋁𝤠𝣹	¿136
+𝠀񀀡񂤁񀭡񃋁𝠃𝤲𝤖񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񃋁𝤠𝣹	¿one hundred thirty six
+𝠀񀀡񂤁񀭡񃋁𝠃𝤲𝤖񀀡𝣛𝣷񂤁𝣯𝤁񀭡𝤄𝣷񃋁𝤠𝣹	¿one-hundred-thirty-six
+𝠀񀀡񂤁񁦡񀕡𝠃𝤮𝤖񀀡𝣞𝣸񂤁𝣲𝤂񁦡𝤆𝣷񀕡𝤟𝣸		¿142
+𝠀񀀡񂤁񁦡񀕡𝠃𝤮𝤖񀀡𝣞𝣸񂤁𝣲𝤂񁦡𝤆𝣷񀕡𝤟𝣸		¿one hundred forty two
+𝠀񀀡񂤁񁦡񀕡𝠃𝤮𝤖񀀡𝣞𝣸񂤁𝣲𝤂񁦡𝤆𝣷񀕡𝤟𝣸		¿one-hundred-forty-two
+𝠀񀀡񂤁񁧑񈙇񇆥𝠃𝤮𝤡񀀡𝣟𝣬񂤁𝣳𝣶񁧑𝤇𝣫񈙇𝤐𝤆񇆥𝤈𝤓	¿144
+𝠀񀀡񂤁񁧑񈙇񇆥𝠃𝤮𝤡񀀡𝣟𝣬񂤁𝣳𝣶񁧑𝤇𝣫񈙇𝤐𝤆񇆥𝤈𝤓	¿one hundred forty four
+𝠀񀀡񂤁񁧑񈙇񇆥𝠃𝤮𝤡񀀡𝣟𝣬񂤁𝣳𝣶񁧑𝤇𝣫񈙇𝤐𝤆񇆥𝤈𝤓	¿one-hundred-forty-four
+𝠀񀀡񂤁񁲡񃋁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񁲡𝤅𝣶񃋁𝤞𝣹	¿156
+𝠀񀀡񂤁񁲡񃋁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񁲡𝤅𝣶񃋁𝤞𝣹	¿one hundred fifty six
+𝠀񀀡񂤁񁲡񃋁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񁲡𝤅𝣶񃋁𝤞𝣹	¿one-hundred-fifty-six
+𝠀񀀡񂤁񁲡񃸁𝠃𝤲𝤖񀀡𝣚𝣷񂤁𝣮𝤁񁲡𝤃𝣶񃸁𝤝𝣺	¿157
+𝠀񀀡񂤁񁲡񃸁𝠃𝤲𝤖񀀡𝣚𝣷񂤁𝣮𝤁񁲡𝤃𝣶񃸁𝤝𝣺	¿one hundred fifty seven
+𝠀񀀡񂤁񁲡񃸁𝠃𝤲𝤖񀀡𝣚𝣷񂤁𝣮𝤁񁲡𝤃𝣶񃸁𝤝𝣺	¿one-hundred-fifty-seven
+𝠀񀀡񂤁񃋁𝠃𝤥𝤖񀀡𝣨𝣷񂤁𝣼𝤁񃋁𝤓𝣹	¿106
+𝠀񀀡񂤁񃋁𝠃𝤥𝤖񀀡𝣨𝣷񂤁𝣼𝤁񃋁𝤓𝣹	¿one hundred six
+𝠀񀀡񂤁񃋁𝠃𝤥𝤖񀀡𝣨𝣷񂤁𝣼𝤁񃋁𝤓𝣹	¿one-hundred-six
+𝠀񀀡񂤁񃷱񄙁𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣮𝤁񃷱𝤂𝣺񄙁𝤜𝣺	¿178
+𝠀񀀡񂤁񃷱񄙁𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣮𝤁񃷱𝤂𝣺񄙁𝤜𝣺	¿one hundred seventy eight
+𝠀񀀡񂤁񃷱񄙁𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣮𝤁񃷱𝤂𝣺񄙁𝤜𝣺	¿one-hundred-seventy-eight
+𝠀񀀡񂤁񃸁񂱡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃸁𝤉𝣺񂱡𝤞𝤆		¿170
+𝠀񀀡񂤁񃸁񂱡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃸁𝤉𝣺񂱡𝤞𝤆		¿one hundred seventy
+𝠀񀀡񂤁񃸁񂱡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃸁𝤉𝣺񂱡𝤞𝤆		¿one-hundred-seventy
+𝠀񀀡񂤁񅊡񁦡𝠃𝤴𝤖񀀡𝣙𝣸񂤁𝣭𝤂񅊡𝤂𝣸񁦡𝤞𝣷	¿124
+𝠀񀀡񂤁񅊡񁦡𝠃𝤴𝤖񀀡𝣙𝣸񂤁𝣭𝤂񅊡𝤂𝣸񁦡𝤞𝣷	¿one hundred twenty four
+𝠀񀀡񂤁񅊡񁦡𝠃𝤴𝤖񀀡𝣙𝣸񂤁𝣭𝤂񅊡𝤂𝣸񁦡𝤞𝣷	¿one-hundred-twenty-four
+𝠀񀀡񂤁񁲡񄙁𝠃𝤳𝤖񀀡𝣚𝣷񂤁𝣮𝤁񁲡𝤃𝣶񄙁𝤞𝣺	¿158
+𝠀񀀡񂤁񁲡񄙁𝠃𝤳𝤖񀀡𝣚𝣷񂤁𝣮𝤁񁲡𝤃𝣶񄙁𝤞𝣺	¿one hundred fifty eight
+𝠀񀀡񂤁񁲡񄙁𝠃𝤳𝤖񀀡𝣚𝣷񂤁𝣮𝤁񁲡𝤃𝣶񄙁𝤞𝣺	¿one-hundred-fifty-eight
+𝠀񀀡񂤁񃋁񀀡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񀀡𝤟𝣷		¿161
+𝠀񀀡񂤁񃋁񀀡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񀀡𝤟𝣷		¿one hundred sixty one
+𝠀񀀡񂤁񃋁񀀡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񀀡𝤟𝣷		¿one-hundred-sixty-one
+𝠀񀀡񂤁񃷱񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣯𝤁񃷱𝤃𝣺񄵡𝤛𝣸	¿179
+𝠀񀀡񂤁񃷱񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣯𝤁񃷱𝤃𝣺񄵡𝤛𝣸	¿one hundred seventy nine
+𝠀񀀡񂤁񃷱񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣯𝤁񃷱𝤃𝣺񄵡𝤛𝣸	¿one-hundred-seventy-nine
+𝠀񀀡񂤁񃸁񃋁𝠃𝤰𝤕񀀡𝣝𝣷񂤁𝣰𝤁񃸁𝤇𝣹񃋁𝤞𝣸		¿176
+𝠀񀀡񂤁񃸁񃋁𝠃𝤰𝤕񀀡𝣝𝣷񂤁𝣰𝤁񃸁𝤇𝣹񃋁𝤞𝣸		¿one hundred seventy six
+𝠀񀀡񂤁񃸁񃋁𝠃𝤰𝤕񀀡𝣝𝣷񂤁𝣰𝤁񃸁𝤇𝣹񃋁𝤞𝣸		¿one-hundred-seventy-six
+𝠀񀀡񂤁񁲡񄵡𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁲡𝤄𝣶񄵡𝤛𝣸	¿159
+𝠀񀀡񂤁񁲡񄵡𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁲡𝤄𝣶񄵡𝤛𝣸	¿one hundred fifty nine
+𝠀񀀡񂤁񁲡񄵡𝠃𝤱𝤖񀀡𝣛𝣷񂤁𝣯𝤁񁲡𝤄𝣶񄵡𝤛𝣸	¿one-hundred-fifty-nine
+𝠀񀀡񂤁񃋁񀕡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񀕡𝤟𝣷		¿162
+𝠀񀀡񂤁񃋁񀕡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񀕡𝤟𝣷		¿one hundred sixty two
+𝠀񀀡񂤁񃋁񀕡𝠃𝤮𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񀕡𝤟𝣷		¿one-hundred-sixty-two
+𝠀񀀡񂤁񃸁𝠃𝤧𝤖񀀡𝣥𝣷񂤁𝣹𝤁񃸁𝤒𝣺	¿107
+𝠀񀀡񂤁񃸁𝠃𝤧𝤖񀀡𝣥𝣷񂤁𝣹𝤁񃸁𝤒𝣺	¿one hundred seven
+𝠀񀀡񂤁񃸁𝠃𝤧𝤖񀀡𝣥𝣷񂤁𝣹𝤁񃸁𝤒𝣺	¿one-hundred-seven
+𝠀񀀡񂤁񃸱񈙇񇆥𝠃𝤮𝤡񀀡𝣞𝣬񂤁𝣱𝣶񃸱𝤈𝣮񈙇𝤐𝤆񇆥𝤇𝤓	¿177
+𝠀񀀡񂤁񃸱񈙇񇆥𝠃𝤮𝤡񀀡𝣞𝣬񂤁𝣱𝣶񃸱𝤈𝣮񈙇𝤐𝤆񇆥𝤇𝤓	¿one hundred seventy seven
+𝠀񀀡񂤁񃸱񈙇񇆥𝠃𝤮𝤡񀀡𝣞𝣬񂤁𝣱𝣶񃸱𝤈𝣮񈙇𝤐𝤆񇆥𝤇𝤓	¿one-hundred-seventy-seven
+𝠀񀀡񂤁񅊡񃋁𝠃𝤲𝤖񀀡𝣚𝣷񂤁𝣮𝤁񅊡𝤃𝣷񃋁𝤠𝣹	¿126
+𝠀񀀡񂤁񅊡񃋁𝠃𝤲𝤖񀀡𝣚𝣷񂤁𝣮𝤁񅊡𝤃𝣷񃋁𝤠𝣹	¿one hundred twenty six
+𝠀񀀡񂤁񅊡񃋁𝠃𝤲𝤖񀀡𝣚𝣷񂤁𝣮𝤁񅊡𝤃𝣷񃋁𝤠𝣹	¿one-hundred-twenty-six
+𝠀񀀡񂤁񁳑񈙇񇆥𝠃𝤯𝤡񀀡𝣝𝣬񂤁𝣱𝣶񁳑𝤆𝣫񈙇𝤑𝤇񇆥𝤈𝤓	¿155
+𝠀񀀡񂤁񁳑񈙇񇆥𝠃𝤯𝤡񀀡𝣝𝣬񂤁𝣱𝣶񁳑𝤆𝣫񈙇𝤑𝤇񇆥𝤈𝤓	¿one hundred fifty five
+𝠀񀀡񂤁񁳑񈙇񇆥𝠃𝤯𝤡񀀡𝣝𝣬񂤁𝣱𝣶񁳑𝤆𝣫񈙇𝤑𝤇񇆥𝤈𝤓	¿one-hundred-fifty-five
+𝠀񀀡񂤁񃋁񀭡𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃋁𝤅𝣹񀭡𝤙𝣷	¿163
+𝠀񀀡񂤁񃋁񀭡𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃋁𝤅𝣹񀭡𝤙𝣷	¿one hundred sixty three
+𝠀񀀡񂤁񃋁񀭡𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃋁𝤅𝣹񀭡𝤙𝣷	¿one-hundred-sixty-three
+𝠀񀀡񂤁񃸁񀀡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񃸁𝤇𝣺񀀡𝤡𝣷		¿171
+𝠀񀀡񂤁񃸁񀀡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񃸁𝤇𝣺񀀡𝤡𝣷		¿one hundred seventy one
+𝠀񀀡񂤁񃸁񀀡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񃸁𝤇𝣺񀀡𝤡𝣷		¿one-hundred-seventy-one
+𝠀񀀡񂤁񄙁𝠃𝤧𝤖񀀡𝣦𝣷񂤁𝣺𝤁񄙁𝤒𝣺	¿108
+𝠀񀀡񂤁񄙁𝠃𝤧𝤖񀀡𝣦𝣷񂤁𝣺𝤁񄙁𝤒𝣺	¿one hundred eight
+𝠀񀀡񂤁񄙁𝠃𝤧𝤖񀀡𝣦𝣷񂤁𝣺𝤁񄙁𝤒𝣺	¿one-hundred-eight
+𝠀񀀡񂤁񅊡񃸁𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񃸁𝤟𝣺	¿127
+𝠀񀀡񂤁񅊡񃸁𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񃸁𝤟𝣺	¿one hundred twenty seven
+𝠀񀀡񂤁񅊡񃸁𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񃸁𝤟𝣺	¿one-hundred-twenty-seven
+𝠀񀀡񂤁񂇁񆱵𝠃𝤦𝤗񀀡𝣧𝣹񂤁𝣻𝤃񆱵𝤌𝣵񂇁𝤓𝣼		¿115
+𝠀񀀡񂤁񂇁񆱵𝠃𝤦𝤗񀀡𝣧𝣹񂤁𝣻𝤃񆱵𝤌𝣵񂇁𝤓𝣼		¿one hundred fifteen
+𝠀񀀡񂤁񂇁񆱵𝠃𝤦𝤗񀀡𝣧𝣹񂤁𝣻𝤃񆱵𝤌𝣵񂇁𝤓𝣼		¿one-hundred-fifteen
+𝠀񀀡񂤁񃋁񁦡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񃋁𝤆𝣹񁦡𝤚𝣶	¿164
+𝠀񀀡񂤁񃋁񁦡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񃋁𝤆𝣹񁦡𝤚𝣶	¿one hundred sixty four
+𝠀񀀡񂤁񃋁񁦡𝠃𝤰𝤖񀀡𝣝𝣷񂤁𝣱𝤁񃋁𝤆𝣹񁦡𝤚𝣶	¿one-hundred-sixty-four
+𝠀񀀡񂤁񃸁񀕡𝠃𝤯𝤕񀀡𝣞𝣷񂤁𝣱𝤁񃸁𝤈𝣹񀕡𝤠𝣷		¿172
+𝠀񀀡񂤁񃸁񀕡𝠃𝤯𝤕񀀡𝣞𝣷񂤁𝣱𝤁񃸁𝤈𝣹񀕡𝤠𝣷		¿one hundred seventy two
+𝠀񀀡񂤁񃸁񀕡𝠃𝤯𝤕񀀡𝣞𝣷񂤁𝣱𝤁񃸁𝤈𝣹񀕡𝤠𝣷		¿one-hundred-seventy-two
+𝠀񀀡񂤁񄙁񀀡𝠃𝤮𝤖񀀡𝣞𝣷񂤁𝣱𝤁񄙁𝤇𝣺񀀡𝤟𝣸		¿181
+𝠀񀀡񂤁񄙁񀀡𝠃𝤮𝤖񀀡𝣞𝣷񂤁𝣱𝤁񄙁𝤇𝣺񀀡𝤟𝣸		¿one hundred eighty one
+𝠀񀀡񂤁񄙁񀀡𝠃𝤮𝤖񀀡𝣞𝣷񂤁𝣱𝤁񄙁𝤇𝣺񀀡𝤟𝣸		¿one-hundred-eighty-one
+𝠀񀀡񂤁񅊡񄙁𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񄙁𝤟𝣺	¿128
+𝠀񀀡񂤁񅊡񄙁𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񄙁𝤟𝣺	¿one hundred twenty eight
+𝠀񀀡񂤁񅊡񄙁𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񄙁𝤟𝣺	¿one-hundred-twenty-eight
+𝠀񀀡񂤁񃊱񃸁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񃸁𝤛𝣺		¿167
+𝠀񀀡񂤁񃊱񃸁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񃸁𝤛𝣺		¿one hundred sixty seven
+𝠀񀀡񂤁񃊱񃸁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񃸁𝤛𝣺		¿one-hundred-sixty-seven
+𝠀񀀡񂤁񃋁񁲡𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃋁𝤅𝣹񁲡𝤙𝣷	¿165
+𝠀񀀡񂤁񃋁񁲡𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃋁𝤅𝣹񁲡𝤙𝣷	¿one hundred sixty five
+𝠀񀀡񂤁񃋁񁲡𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃋁𝤅𝣹񁲡𝤙𝣷	¿one-hundred-sixty-five
+𝠀񀀡񂤁񃸁񀭡𝠃𝤲𝤕񀀡𝣚𝣷񂤁𝣭𝤁񃸁𝤄𝣹񀭡𝤛𝣷	¿173
+𝠀񀀡񂤁񃸁񀭡𝠃𝤲𝤕񀀡𝣚𝣷񂤁𝣭𝤁񃸁𝤄𝣹񀭡𝤛𝣷	¿one hundred seventy three
+𝠀񀀡񂤁񃸁񀭡𝠃𝤲𝤕񀀡𝣚𝣷񂤁𝣭𝤁񃸁𝤄𝣹񀭡𝤛𝣷	¿one-hundred-seventy-three
+𝠀񀀡񂤁񄙁񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣲𝤁񄙁𝤈𝣺񂱡𝤝𝤆		¿180
+𝠀񀀡񂤁񄙁񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣲𝤁񄙁𝤈𝣺񂱡𝤝𝤆		¿one hundred eighty
+𝠀񀀡񂤁񄙁񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣲𝤁񄙁𝤈𝣺񂱡𝤝𝤆		¿one-hundred-eighty
+𝠀񀀡񂤁񅊡񄵡𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񄵡𝤞𝣸	¿129
+𝠀񀀡񂤁񅊡񄵡𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񄵡𝤞𝣸	¿one hundred twenty nine
+𝠀񀀡񂤁񅊡񄵡𝠃𝤴𝤖񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񄵡𝤞𝣸	¿one-hundred-twenty-nine
+𝠀񀀡񂤁񃊱񄙁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񄙁𝤛𝣺		¿168
+𝠀񀀡񂤁񃊱񄙁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񄙁𝤛𝣺		¿one hundred sixty eight
+𝠀񀀡񂤁񃊱񄙁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񄙁𝤛𝣺		¿one-hundred-sixty-eight
+𝠀񀀡񂤁񃋁񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񂱡𝤝𝤆		¿160
+𝠀񀀡񂤁񃋁񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񂱡𝤝𝤆		¿one hundred sixty
+𝠀񀀡񂤁񃋁񂱡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񃋁𝤈𝣹񂱡𝤝𝤆		¿one-hundred-sixty
+𝠀񀀡񂤁񃸁񁦡𝠃𝤲𝤖񀀡𝣛𝣸񂤁𝣮𝤂񃸁𝤅𝣺񁦡𝤜𝣷	¿174
+𝠀񀀡񂤁񃸁񁦡𝠃𝤲𝤖񀀡𝣛𝣸񂤁𝣮𝤂񃸁𝤅𝣺񁦡𝤜𝣷	¿one hundred seventy four
+𝠀񀀡񂤁񃸁񁦡𝠃𝤲𝤖񀀡𝣛𝣸񂤁𝣮𝤂񃸁𝤅𝣺񁦡𝤜𝣷	¿one-hundred-seventy-four
+𝠀񀀡񂤁񄵡𝠃𝤧𝤕񀀡𝣦𝣷񂤁𝣺𝤁񄵡𝤑𝣷	¿109
+𝠀񀀡񂤁񄵡𝠃𝤧𝤕񀀡𝣦𝣷񂤁𝣺𝤁񄵡𝤑𝣷	¿one hundred nine
+𝠀񀀡񂤁񄵡𝠃𝤧𝤕񀀡𝣦𝣷񂤁𝣺𝤁񄵡𝤑𝣷	¿one-hundred-nine
+𝠀񀀡񂤁񅐡񆥡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񅐡𝤖𝣸񆥡𝤉𝤃	¿121	
+𝠀񀀡񂤁񅐡񆥡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񅐡𝤖𝣸񆥡𝤉𝤃		¿one hundred twenty one
+𝠀񀀡񂤁񅐡񆥡𝠃𝤭𝤖񀀡𝣟𝣷񂤁𝣳𝤁񅐡𝤖𝣸񆥡𝤉𝤃		¿one-hundred-twenty-one
+𝠀񀀡񂤁񃊱񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񄵡𝤛𝣸	¿169
+𝠀񀀡񂤁񃊱񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񄵡𝤛𝣸	¿one hundred sixty nine
+𝠀񀀡񂤁񃊱񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񃊱𝤅𝣹񄵡𝤛𝣸	¿one-hundred-sixty-nine
+𝠀񀀡񂤁񃋱񈙇񇆥𝠃𝤭𝤡񀀡𝣠𝣫񂤁𝣴𝣵񃋱𝤉𝣭񈙇𝤏𝤇񇆥𝤉𝤓	¿166
+𝠀񀀡񂤁񃋱񈙇񇆥𝠃𝤭𝤡񀀡𝣠𝣫񂤁𝣴𝣵񃋱𝤉𝣭񈙇𝤏𝤇񇆥𝤉𝤓	¿one hundred sixty six
+𝠀񀀡񂤁񃋱񈙇񇆥𝠃𝤭𝤡񀀡𝣠𝣫񂤁𝣴𝣵񃋱𝤉𝣭񈙇𝤏𝤇񇆥𝤉𝤓	¿one-hundred-sixty-six
+𝠀񀀡񂤁񃸁񁲡𝠃𝤳𝤖񀀡𝣚𝣸񂤁𝣭𝤂񃸁𝤄𝣺񁲡𝤜𝣷	¿175
+𝠀񀀡񂤁񃸁񁲡𝠃𝤳𝤖񀀡𝣚𝣸񂤁𝣭𝤂񃸁𝤄𝣺񁲡𝤜𝣷	¿one hundred seventy five
+𝠀񀀡񂤁񃸁񁲡𝠃𝤳𝤖񀀡𝣚𝣸񂤁𝣭𝤂񃸁𝤄𝣺񁲡𝤜𝣷	¿one-hundred-seventy-five
+𝠀񀀡񂤁񅊡񀭡𝠃𝤴𝤕񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񀭡𝤝𝣷	¿123
+𝠀񀀡񂤁񅊡񀭡𝠃𝤴𝤕񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񀭡𝤝𝣷	¿one hundred twenty three
+𝠀񀀡񂤁񅊡񀭡𝠃𝤴𝤕񀀡𝣘𝣷񂤁𝣬𝤁񅊡𝤁𝣷񀭡𝤝𝣷	¿one-hundred-twenty-three
+𝠀񀀡񂤁񅡁񆱵𝠃𝤩𝤕񀀡𝣤𝣷񂤁𝣸𝤁񅡁𝤑𝤂񆱵𝤈𝣺	¿120
+𝠀񀀡񂤁񅡁񆱵𝠃𝤩𝤕񀀡𝣤𝣷񂤁𝣸𝤁񅡁𝤑𝤂񆱵𝤈𝣺	¿one hundred twenty
+𝠀񀀡񂤁񅡁񆱵𝠃𝤩𝤕񀀡𝣤𝣷񂤁𝣸𝤁񅡁𝤑𝤂񆱵𝤈𝣺	¿one-hundred-twenty
+𝠀񀀡񂤁񅰡񃋁𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񅰡𝤉𝣽񃋁𝤝𝣹		¿116
+𝠀񀀡񂤁񅰡񃋁𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񅰡𝤉𝣽񃋁𝤝𝣹		¿one hundred sixteen
+𝠀񀀡񂤁񅰡񃋁𝠃𝤯𝤖񀀡𝣞𝣷񂤁𝣲𝤁񅰡𝤉𝣽񃋁𝤝𝣹		¿one-hundred-sixteen
+𝠀񀀡񂱡񀭡𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣼𝤆񀭡𝤍𝣷	¿103
+𝠀񀀡񂱡񀭡𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣼𝤆񀭡𝤍𝣷	¿one hundred three
+𝠀񀀡񂱡񀭡𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣼𝤆񀭡𝤍𝣷	¿one-hundred-three
+𝠀񀀡񅰡񉸙𝠃𝤜𝤢񀀡𝣱𝤄񅰡𝤅𝤊񉸙𝤉𝣫	¿110
+𝠀񀀡񅰡񉸙𝠃𝤜𝤢񀀡𝣱𝤄񅰡𝤅𝤊񉸙𝤉𝣫	¿one hundred ten
+𝠀񀀡񅰡񉸙𝠃𝤜𝤢񀀡𝣱𝤄񅰡𝤅𝤊񉸙𝤉𝣫	¿one-hundred-ten
+𝠀񀀡񆿅񃋁𝠃𝤏𝤰񀀡𝤀𝣝񃋁𝣽𝤓񆿅𝤀𝣿		¿1/6
+𝠀񀀡񆿅񃋁𝠃𝤏𝤰񀀡𝤀𝣝񃋁𝣽𝤓񆿅𝤀𝣿		¿one sixth
+𝠀񀀡񂤁񅰡񃸁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񃸁𝤛𝣺		¿117
+𝠀񀀡񂤁񅰡񃸁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񃸁𝤛𝣺		¿one hundred seventeen
+𝠀񀀡񂤁񅰡񃸁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񃸁𝤛𝣺		¿one-hundred-seventeen
+𝠀񀀡񂤁񅰡񄙁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񄙁𝤛𝣺		¿118
+𝠀񀀡񂤁񅰡񄙁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񄙁𝤛𝣺		¿one hundred eighteen
+𝠀񀀡񂤁񅰡񄙁𝠃𝤰𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񄙁𝤛𝣺		¿one-hundred-eighteen
+𝠀񀀡񂤁񅰡񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񄵡𝤛𝣸		¿119
+𝠀񀀡񂤁񅰡񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񄵡𝤛𝣸		¿one hundred nineteen
+𝠀񀀡񂤁񅰡񄵡𝠃𝤱𝤖񀀡𝣜𝣷񂤁𝣰𝤁񅰡𝤇𝣽񄵡𝤛𝣸		¿one-hundred-nineteen
+𝠀񀀡񂤁񅰡񉸑𝠃𝤨𝤡񀀡𝣥𝤃񂤁𝣸𝤍񅰡𝤎𝤉񉸑𝤕𝣫		¿110
+𝠀񀀡񂤁񅰡񉸑𝠃𝤨𝤡񀀡𝣥𝤃񂤁𝣸𝤍񅰡𝤎𝤉񉸑𝤕𝣫		¿one hundred ten
+𝠀񀀡񂤁񅰡񉸑𝠃𝤨𝤡񀀡𝣥𝤃񂤁𝣸𝤍񅰡𝤎𝤉񉸑𝤕𝣫		¿one-hundred-ten
+𝠀񀀡񂤁񈗧񋵡𝠃𝤤𝤕񋵡𝤙𝣽񈗧𝤔𝤅񂤁𝣾𝤁񀀡𝣩𝣷		¿100
+𝠀񀀡񂤁񈗧񋵡𝠃𝤤𝤕񋵡𝤙𝣽񈗧𝤔𝤅񂤁𝣾𝤁񀀡𝣩𝣷		¿one hundred
+𝠀񀀡񂤁񈗧񋵡𝠃𝤤𝤕񋵡𝤙𝣽񈗧𝤔𝤅񂤁𝣾𝤁񀀡𝣩𝣷		¿one-hundred
+𝠀񀀡񂱡񀀡𝠃𝤢𝤖񀀡𝣫𝣷񂱡𝣿𝤆񀀡𝤓𝣷		¿101
+𝠀񀀡񂱡񀀡𝠃𝤢𝤖񀀡𝣫𝣷񂱡𝣿𝤆񀀡𝤓𝣷		¿one hundred one
+𝠀񀀡񂱡񀀡𝠃𝤢𝤖񀀡𝣫𝣷񂱡𝣿𝤆񀀡𝤓𝣷		¿one-hundred-one
+𝠀񀀡񂱡񀕡𝠃𝤡𝤖񀀡𝣫𝣷񂱡𝣾𝤆񀕡𝤒𝣷		¿102
+𝠀񀀡񂱡񀕡𝠃𝤡𝤖񀀡𝣫𝣷񂱡𝣾𝤆񀕡𝤒𝣷		¿one hundred two
+𝠀񀀡񂱡񀕡𝠃𝤡𝤖񀀡𝣫𝣷񂱡𝣾𝤆񀕡𝤒𝣷		¿one-hundred-two
+𝠀񀀡񂱡񁦡𝠃𝤣𝤖񀀡𝣩𝣷񂱡𝣻𝤆񁦡𝤍𝣶	¿104
+𝠀񀀡񂱡񁦡𝠃𝤣𝤖񀀡𝣩𝣷񂱡𝣻𝤆񁦡𝤍𝣶	¿one hundred four
+𝠀񀀡񂱡񁦡𝠃𝤣𝤖񀀡𝣩𝣷񂱡𝣻𝤆񁦡𝤍𝣶	¿one-hundred-four
+𝠀񀀡񂱡񁲡𝠃𝤤𝤖񀀡𝣨𝣷񂱡𝣺𝤆񁲡𝤍𝣷	¿105
+𝠀񀀡񂱡񁲡𝠃𝤤𝤖񀀡𝣨𝣷񂱡𝣺𝤆񁲡𝤍𝣷	¿one hundred five
+𝠀񀀡񂱡񁲡𝠃𝤤𝤖񀀡𝣨𝣷񂱡𝣺𝤆񁲡𝤍𝣷	¿one-hundred-five
+𝠀񀀡񂱡񃋁𝠃𝤡𝤖񀀡𝣫𝣷񂱡𝣽𝤆񃋁𝤏𝣹	¿106
+𝠀񀀡񂱡񃋁𝠃𝤡𝤖񀀡𝣫𝣷񂱡𝣽𝤆񃋁𝤏𝣹	¿one hundred six
+𝠀񀀡񂱡񃋁𝠃𝤡𝤖񀀡𝣫𝣷񂱡𝣽𝤆񃋁𝤏𝣹	¿one-hundred-six
+𝠀񀀡񂱡񃸁𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣻𝤆񃸁𝤏𝣺	¿107
+𝠀񀀡񂱡񃸁𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣻𝤆񃸁𝤏𝣺	¿one hundred seven
+𝠀񀀡񂱡񃸁𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣻𝤆񃸁𝤏𝣺	¿one-hundred-seven
+𝠀񀀡񂱡񄙁𝠃𝤣𝤖񀀡𝣩𝣷񂱡𝣻𝤆񄙁𝤎𝣺	¿108
+𝠀񀀡񂱡񄙁𝠃𝤣𝤖񀀡𝣩𝣷񂱡𝣻𝤆񄙁𝤎𝣺	¿one hundred eight
+𝠀񀀡񂱡񄙁𝠃𝤣𝤖񀀡𝣩𝣷񂱡𝣻𝤆񄙁𝤎𝣺	¿one-hundred-eight
+𝠀񀀡񂱡񄵡𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣻𝤆񄵡𝤎𝣸	¿109
+𝠀񀀡񂱡񄵡𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣻𝤆񄵡𝤎𝣸	¿one hundred nine
+𝠀񀀡񂱡񄵡𝠃𝤤𝤖񀀡𝣩𝣷񂱡𝣻𝤆񄵡𝤎𝣸	¿one-hundred-nine
+𝠀񀀡񄙁񀀡𝠃𝤤𝤕񀀡𝣩𝣷񀀡𝤕𝣷񄙁𝣽𝣹	¿181
+𝠀񀀡񄙁񀀡𝠃𝤤𝤕񀀡𝣩𝣷񀀡𝤕𝣷񄙁𝣽𝣹	¿one hundred eighty one
+𝠀񀀡񄙁񀀡𝠃𝤤𝤕񀀡𝣩𝣷񀀡𝤕𝣷񄙁𝣽𝣹	¿one-hundred-eighty-one
+𝠀񀀡񆿅񃁒񂇹񆇡𝠃𝤛𝤮񆇡𝣱𝤟񂇹𝣾𝤓񃁒𝤂𝤕񀀡𝤈𝣟񆿅𝤉𝤁	¿1000
+𝠀񀀡񆿅񃁒񂇹񆇡𝠃𝤛𝤮񆇡𝣱𝤟񂇹𝣾𝤓񃁒𝤂𝤕񀀡𝤈𝣟񆿅𝤉𝤁	¿one thousand
+𝠀񀀡񆿅񃁒񂇹񆇡𝠃𝤛𝤮񆇡𝣱𝤟񂇹𝣾𝤓񃁒𝤂𝤕񀀡𝤈𝣟񆿅𝤉𝤁	¿one-thousand
 
 
 
